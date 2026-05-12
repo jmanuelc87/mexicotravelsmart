@@ -39,5 +39,6 @@ next-env.d.ts
 
 
 # Claude
+.kiro/
 .claude/
-openspec/
+openspec

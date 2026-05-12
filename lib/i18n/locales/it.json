@@ -1,0 +1,115 @@
+{
+  "home": {
+    "title": "Mexico Travel Smart",
+    "subtitle": "La tua guida per la Coppa del Mondo FIFA 2026",
+    "welcome": "Benvenuto in Messico",
+    "explore": "Esplora"
+  },
+  "embassy": {
+    "title": "Ambasciate e Consolati",
+    "subtitle": "Trova l'ambasciata o il consolato del tuo paese in Messico",
+    "address": "Indirizzo",
+    "phone": "Telefono",
+    "email": "E-mail",
+    "hours": "Orari"
+  },
+  "emergency": {
+    "title": "Numeri di Emergenza",
+    "subtitle": "Contatti di emergenza importanti in Messico",
+    "call_911": "Chiama il 911",
+    "tourist_assistance": "Assistenza Turistica",
+    "police": "Polizia",
+    "ambulance": "Ambulanza",
+    "fire": "Vigili del Fuoco",
+    "hospitals": "Ospedali",
+    "pharmacies": "Farmacie"
+  },
+  "legal": {
+    "title": "Legale e Assicurazioni",
+    "subtitle": "Risorse legali e informazioni sull'assicurazione di viaggio",
+    "insurance": "Assicurazione di Viaggio",
+    "legal_aid": "Assistenza Legale",
+    "rights": "I Tuoi Diritti"
+  },
+  "dining": {
+    "title": "Ristorazione",
+    "subtitle": "Ristoranti ed esperienze culinarie in Messico",
+    "restaurants": "Ristoranti",
+    "street_food": "Street Food",
+    "cuisine": "Cucina Messicana"
+  },
+  "transport": {
+    "title": "Trasporti",
+    "subtitle": "Come spostarsi in Messico",
+    "metro": "Metro",
+    "bus": "Autobus",
+    "taxi": "Taxi",
+    "airport": "Aeroporto"
+  },
+  "lodging": {
+    "title": "Alloggio",
+    "subtitle": "Dove soggiornare in Messico",
+    "hotels": "Hotel",
+    "hostels": "Ostelli",
+    "airbnb": "Affitti Vacanze"
+  },
+  "tours": {
+    "title": "Tour",
+    "subtitle": "Tour guidati ed esperienze",
+    "city_tours": "Tour della Città",
+    "day_trips": "Gite di un Giorno",
+    "cultural": "Tour Culturali"
+  },
+  "activities": {
+    "title": "Attività",
+    "subtitle": "Cosa fare in Messico",
+    "stadiums": "Stadi",
+    "attractions": "Attrazioni",
+    "sports": "Sport"
+  },
+  "media": {
+    "title": "Media",
+    "subtitle": "Notizie e risorse media",
+    "news": "Notizie",
+    "social": "Social Media",
+    "apps": "App Utili"
+  },
+  "lost_docs": {
+    "title": "Documenti Smarriti",
+    "subtitle": "Cosa fare se perdi i tuoi documenti",
+    "passport": "Passaporto Smarrito",
+    "id": "Documento d'Identità Smarrito",
+    "steps": "Passi da Seguire"
+  },
+  "states": {
+    "title": "Stati del Messico",
+    "subtitle": "Esplora i 32 stati del Messico",
+    "host_cities": "Città Ospitanti",
+    "all_states": "Tutti gli Stati"
+  },
+  "destinations": {
+    "title": "Destinazioni",
+    "subtitle": "Guide di viaggio per paese",
+    "available": "Guide Disponibili",
+    "coming_soon": "Prossimamente"
+  },
+  "nav": {
+    "home": "Home",
+    "embassy": "Ambasciate",
+    "emergency": "Emergenze",
+    "legal": "Legale",
+    "dining": "Ristorazione",
+    "transport": "Trasporti",
+    "lodging": "Alloggio",
+    "tours": "Tour",
+    "activities": "Attività",
+    "media": "Media",
+    "lost_docs": "Docs Smarriti",
+    "states": "Stati",
+    "destinations": "Destinazioni"
+  },
+  "language": {
+    "select": "Seleziona Lingua",
+    "current": "Italiano"
+  }
+}

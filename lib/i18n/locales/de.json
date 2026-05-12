@@ -1,0 +1,115 @@
+{
+  "home": {
+    "title": "Mexico Travel Smart",
+    "subtitle": "Ihr Leitfaden für die FIFA Weltmeisterschaft 2026",
+    "welcome": "Willkommen in Mexiko",
+    "explore": "Erkunden"
+  },
+  "embassy": {
+    "title": "Botschaften und Konsulate",
+    "subtitle": "Finden Sie die Botschaft oder das Konsulat Ihres Landes in Mexiko",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "hours": "Öffnungszeiten"
+  },
+  "emergency": {
+    "title": "Notrufnummern",
+    "subtitle": "Wichtige Notfallkontakte in Mexiko",
+    "call_911": "911 anrufen",
+    "tourist_assistance": "Touristenhilfe",
+    "police": "Polizei",
+    "ambulance": "Krankenwagen",
+    "fire": "Feuerwehr",
+    "hospitals": "Krankenhäuser",
+    "pharmacies": "Apotheken"
+  },
+  "legal": {
+    "title": "Recht und Versicherungen",
+    "subtitle": "Rechtliche Ressourcen und Reiseversicherungsinformationen",
+    "insurance": "Reiseversicherung",
+    "legal_aid": "Rechtshilfe",
+    "rights": "Ihre Rechte"
+  },
+  "dining": {
+    "title": "Gastronomie",
+    "subtitle": "Restaurants und kulinarische Erlebnisse in Mexiko",
+    "restaurants": "Restaurants",
+    "street_food": "Straßenessen",
+    "cuisine": "Mexikanische Küche"
+  },
+  "transport": {
+    "title": "Transport",
+    "subtitle": "Fortbewegung in Mexiko",
+    "metro": "U-Bahn",
+    "bus": "Bus",
+    "taxi": "Taxi",
+    "airport": "Flughafen"
+  },
+  "lodging": {
+    "title": "Unterkunft",
+    "subtitle": "Wo man in Mexiko übernachten kann",
+    "hotels": "Hotels",
+    "hostels": "Hostels",
+    "airbnb": "Ferienwohnungen"
+  },
+  "tours": {
+    "title": "Touren",
+    "subtitle": "Geführte Touren und Erlebnisse",
+    "city_tours": "Stadttouren",
+    "day_trips": "Tagesausflüge",
+    "cultural": "Kulturtouren"
+  },
+  "activities": {
+    "title": "Aktivitäten",
+    "subtitle": "Was man in Mexiko tun kann",
+    "stadiums": "Stadien",
+    "attractions": "Sehenswürdigkeiten",
+    "sports": "Sport"
+  },
+  "media": {
+    "title": "Medien",
+    "subtitle": "Nachrichten und Medienressourcen",
+    "news": "Nachrichten",
+    "social": "Soziale Medien",
+    "apps": "Nützliche Apps"
+  },
+  "lost_docs": {
+    "title": "Verlorene Dokumente",
+    "subtitle": "Was tun, wenn Sie Ihre Dokumente verlieren",
+    "passport": "Verlorener Reisepass",
+    "id": "Verlorener Ausweis",
+    "steps": "Schritte zum Handeln"
+  },
+  "states": {
+    "title": "Mexikanische Bundesstaaten",
+    "subtitle": "Erkunden Sie die 32 Bundesstaaten Mexikos",
+    "host_cities": "Austragungsstädte",
+    "all_states": "Alle Bundesstaaten"
+  },
+  "destinations": {
+    "title": "Reiseziele",
+    "subtitle": "Länderspezifische Reiseführer",
+    "available": "Verfügbare Reiseführer",
+    "coming_soon": "Demnächst"
+  },
+  "nav": {
+    "home": "Startseite",
+    "embassy": "Botschaften",
+    "emergency": "Notfall",
+    "legal": "Recht",
+    "dining": "Gastronomie",
+    "transport": "Transport",
+    "lodging": "Unterkunft",
+    "tours": "Touren",
+    "activities": "Aktivitäten",
+    "media": "Medien",
+    "lost_docs": "Verlorene Docs",
+    "states": "Bundesstaaten",
+    "destinations": "Reiseziele"
+  },
+  "language": {
+    "select": "Sprache auswählen",
+    "current": "Deutsch"
+  }
+}

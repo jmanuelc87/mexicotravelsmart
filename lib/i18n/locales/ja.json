@@ -1,0 +1,115 @@
+{
+  "home": {
+    "title": "Mexico Travel Smart",
+    "subtitle": "FIFA ワールドカップ 2026 ガイド",
+    "welcome": "メキシコへようこそ",
+    "explore": "探索する"
+  },
+  "embassy": {
+    "title": "大使館・領事館",
+    "subtitle": "メキシコにある自国の大使館または領事館を探す",
+    "address": "住所",
+    "phone": "電話",
+    "email": "メール",
+    "hours": "営業時間"
+  },
+  "emergency": {
+    "title": "緊急連絡先",
+    "subtitle": "メキシコの重要な緊急連絡先",
+    "call_911": "911に電話",
+    "tourist_assistance": "観光客支援",
+    "police": "警察",
+    "ambulance": "救急車",
+    "fire": "消防署",
+    "hospitals": "病院",
+    "pharmacies": "薬局"
+  },
+  "legal": {
+    "title": "法律・保険",
+    "subtitle": "法的リソースと旅行保険情報",
+    "insurance": "旅行保険",
+    "legal_aid": "法的支援",
+    "rights": "あなたの権利"
+  },
+  "dining": {
+    "title": "グルメ",
+    "subtitle": "メキシコのレストランと食の体験",
+    "restaurants": "レストラン",
+    "street_food": "屋台料理",
+    "cuisine": "メキシコ料理"
+  },
+  "transport": {
+    "title": "交通",
+    "subtitle": "メキシコでの移動方法",
+    "metro": "地下鉄",
+    "bus": "バス",
+    "taxi": "タクシー",
+    "airport": "空港"
+  },
+  "lodging": {
+    "title": "宿泊",
+    "subtitle": "メキシコでの宿泊先",
+    "hotels": "ホテル",
+    "hostels": "ホステル",
+    "airbnb": "バケーションレンタル"
+  },
+  "tours": {
+    "title": "ツアー",
+    "subtitle": "ガイド付きツアーと体験",
+    "city_tours": "シティツアー",
+    "day_trips": "日帰り旅行",
+    "cultural": "文化ツアー"
+  },
+  "activities": {
+    "title": "アクティビティ",
+    "subtitle": "メキシコでできること",
+    "stadiums": "スタジアム",
+    "attractions": "観光スポット",
+    "sports": "スポーツ"
+  },
+  "media": {
+    "title": "メディア",
+    "subtitle": "ニュースとメディアリソース",
+    "news": "ニュース",
+    "social": "ソーシャルメディア",
+    "apps": "便利なアプリ"
+  },
+  "lost_docs": {
+    "title": "書類の紛失",
+    "subtitle": "書類を紛失した場合の対処法",
+    "passport": "パスポート紛失",
+    "id": "身分証明書紛失",
+    "steps": "対処手順"
+  },
+  "states": {
+    "title": "メキシコの州",
+    "subtitle": "メキシコの32州を探索",
+    "host_cities": "開催都市",
+    "all_states": "全州"
+  },
+  "destinations": {
+    "title": "目的地",
+    "subtitle": "国別旅行ガイド",
+    "available": "利用可能なガイド",
+    "coming_soon": "近日公開"
+  },
+  "nav": {
+    "home": "ホーム",
+    "embassy": "大使館",
+    "emergency": "緊急",
+    "legal": "法律",
+    "dining": "グルメ",
+    "transport": "交通",
+    "lodging": "宿泊",
+    "tours": "ツアー",
+    "activities": "アクティビティ",
+    "media": "メディア",
+    "lost_docs": "書類紛失",
+    "states": "州",
+    "destinations": "目的地"
+  },
+  "language": {
+    "select": "言語を選択",
+    "current": "日本語"
+  }
+}

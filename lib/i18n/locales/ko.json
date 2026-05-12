@@ -1,0 +1,115 @@
+{
+  "home": {
+    "title": "Mexico Travel Smart",
+    "subtitle": "2026 FIFA 월드컵 가이드",
+    "welcome": "멕시코에 오신 것을 환영합니다",
+    "explore": "탐색"
+  },
+  "embassy": {
+    "title": "대사관 및 영사관",
+    "subtitle": "멕시코에 있는 귀국 대사관 또는 영사관 찾기",
+    "address": "주소",
+    "phone": "전화",
+    "email": "이메일",
+    "hours": "운영 시간"
+  },
+  "emergency": {
+    "title": "긴급 연락처",
+    "subtitle": "멕시코의 중요한 긴급 연락처",
+    "call_911": "911 전화",
+    "tourist_assistance": "관광객 지원",
+    "police": "경찰",
+    "ambulance": "구급차",
+    "fire": "소방서",
+    "hospitals": "병원",
+    "pharmacies": "약국"
+  },
+  "legal": {
+    "title": "법률 및 보험",
+    "subtitle": "법적 자원 및 여행 보험 정보",
+    "insurance": "여행 보험",
+    "legal_aid": "법률 지원",
+    "rights": "귀하의 권리"
+  },
+  "dining": {
+    "title": "식사",
+    "subtitle": "멕시코의 레스토랑 및 음식 경험",
+    "restaurants": "레스토랑",
+    "street_food": "길거리 음식",
+    "cuisine": "멕시코 요리"
+  },
+  "transport": {
+    "title": "교통",
+    "subtitle": "멕시코에서 이동하기",
+    "metro": "지하철",
+    "bus": "버스",
+    "taxi": "택시",
+    "airport": "공항"
+  },
+  "lodging": {
+    "title": "숙박",
+    "subtitle": "멕시코에서 머물 곳",
+    "hotels": "호텔",
+    "hostels": "호스텔",
+    "airbnb": "휴가 렌탈"
+  },
+  "tours": {
+    "title": "투어",
+    "subtitle": "가이드 투어 및 체험",
+    "city_tours": "시티 투어",
+    "day_trips": "당일 여행",
+    "cultural": "문화 투어"
+  },
+  "activities": {
+    "title": "활동",
+    "subtitle": "멕시코에서 할 수 있는 것들",
+    "stadiums": "경기장",
+    "attractions": "관광 명소",
+    "sports": "스포츠"
+  },
+  "media": {
+    "title": "미디어",
+    "subtitle": "뉴스 및 미디어 자원",
+    "news": "뉴스",
+    "social": "소셜 미디어",
+    "apps": "유용한 앱"
+  },
+  "lost_docs": {
+    "title": "서류 분실",
+    "subtitle": "서류를 분실했을 때 해야 할 일",
+    "passport": "여권 분실",
+    "id": "신분증 분실",
+    "steps": "처리 단계"
+  },
+  "states": {
+    "title": "멕시코 주",
+    "subtitle": "멕시코 32개 주 탐색",
+    "host_cities": "개최 도시",
+    "all_states": "모든 주"
+  },
+  "destinations": {
+    "title": "목적지",
+    "subtitle": "국가별 여행 가이드",
+    "available": "이용 가능한 가이드",
+    "coming_soon": "곧 출시"
+  },
+  "nav": {
+    "home": "홈",
+    "embassy": "대사관",
+    "emergency": "긴급",
+    "legal": "법률",
+    "dining": "식사",
+    "transport": "교통",
+    "lodging": "숙박",
+    "tours": "투어",
+    "activities": "활동",
+    "media": "미디어",
+    "lost_docs": "서류 분실",
+    "states": "주",
+    "destinations": "목적지"
+  },
+  "language": {
+    "select": "언어 선택",
+    "current": "한국어"
+  }
+}

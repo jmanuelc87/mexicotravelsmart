@@ -1,0 +1,115 @@
+{
+  "home": {
+    "title": "Mexico Travel Smart",
+    "subtitle": "Votre guide pour la Coupe du Monde FIFA 2026",
+    "welcome": "Bienvenue au Mexique",
+    "explore": "Explorer"
+  },
+  "embassy": {
+    "title": "Ambassades et Consulats",
+    "subtitle": "Trouvez l'ambassade ou le consulat de votre pays au Mexique",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "hours": "Horaires"
+  },
+  "emergency": {
+    "title": "Numéros d'Urgence",
+    "subtitle": "Contacts d'urgence importants au Mexique",
+    "call_911": "Appeler le 911",
+    "tourist_assistance": "Assistance Touristique",
+    "police": "Police",
+    "ambulance": "Ambulance",
+    "fire": "Pompiers",
+    "hospitals": "Hôpitaux",
+    "pharmacies": "Pharmacies"
+  },
+  "legal": {
+    "title": "Juridique et Assurances",
+    "subtitle": "Ressources juridiques et informations sur l'assurance voyage",
+    "insurance": "Assurance Voyage",
+    "legal_aid": "Aide Juridique",
+    "rights": "Vos Droits"
+  },
+  "dining": {
+    "title": "Restauration",
+    "subtitle": "Restaurants et expériences culinaires au Mexique",
+    "restaurants": "Restaurants",
+    "street_food": "Street Food",
+    "cuisine": "Cuisine Mexicaine"
+  },
+  "transport": {
+    "title": "Transport",
+    "subtitle": "Se déplacer au Mexique",
+    "metro": "Métro",
+    "bus": "Bus",
+    "taxi": "Taxi",
+    "airport": "Aéroport"
+  },
+  "lodging": {
+    "title": "Hébergement",
+    "subtitle": "Où séjourner au Mexique",
+    "hotels": "Hôtels",
+    "hostels": "Auberges",
+    "airbnb": "Locations de Vacances"
+  },
+  "tours": {
+    "title": "Visites Guidées",
+    "subtitle": "Visites guidées et expériences",
+    "city_tours": "Visites de la Ville",
+    "day_trips": "Excursions d'une Journée",
+    "cultural": "Visites Culturelles"
+  },
+  "activities": {
+    "title": "Activités",
+    "subtitle": "Que faire au Mexique",
+    "stadiums": "Stades",
+    "attractions": "Attractions",
+    "sports": "Sports"
+  },
+  "media": {
+    "title": "Médias",
+    "subtitle": "Actualités et ressources médias",
+    "news": "Actualités",
+    "social": "Réseaux Sociaux",
+    "apps": "Applications Utiles"
+  },
+  "lost_docs": {
+    "title": "Documents Perdus",
+    "subtitle": "Que faire si vous perdez vos documents",
+    "passport": "Passeport Perdu",
+    "id": "Pièce d'Identité Perdue",
+    "steps": "Étapes à Suivre"
+  },
+  "states": {
+    "title": "États du Mexique",
+    "subtitle": "Explorez les 32 états du Mexique",
+    "host_cities": "Villes Hôtes",
+    "all_states": "Tous les États"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "Guides de voyage par pays",
+    "available": "Guides Disponibles",
+    "coming_soon": "Bientôt Disponible"
+  },
+  "nav": {
+    "home": "Accueil",
+    "embassy": "Ambassades",
+    "emergency": "Urgences",
+    "legal": "Juridique",
+    "dining": "Restauration",
+    "transport": "Transport",
+    "lodging": "Hébergement",
+    "tours": "Visites",
+    "activities": "Activités",
+    "media": "Médias",
+    "lost_docs": "Docs Perdus",
+    "states": "États",
+    "destinations": "Destinations"
+  },
+  "language": {
+    "select": "Choisir la Langue",
+    "current": "Français"
+  }
+}

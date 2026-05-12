@@ -1,0 +1,115 @@
+{
+  "home": {
+    "title": "Mexico Travel Smart",
+    "subtitle": "Tu guía para la Copa Mundial FIFA 2026",
+    "welcome": "Bienvenido a México",
+    "explore": "Explorar"
+  },
+  "embassy": {
+    "title": "Embajadas y Consulados",
+    "subtitle": "Encuentra la embajada o consulado de tu país en México",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "hours": "Horario"
+  },
+  "emergency": {
+    "title": "Números de Emergencia",
+    "subtitle": "Contactos de emergencia importantes en México",
+    "call_911": "Llamar al 911",
+    "tourist_assistance": "Asistencia Turística",
+    "police": "Policía",
+    "ambulance": "Ambulancia",
+    "fire": "Bomberos",
+    "hospitals": "Hospitales",
+    "pharmacies": "Farmacias"
+  },
+  "legal": {
+    "title": "Legal y Seguros",
+    "subtitle": "Recursos legales e información de seguro de viaje",
+    "insurance": "Seguro de Viaje",
+    "legal_aid": "Asistencia Legal",
+    "rights": "Tus Derechos"
+  },
+  "dining": {
+    "title": "Gastronomía",
+    "subtitle": "Restaurantes y experiencias gastronómicas en México",
+    "restaurants": "Restaurantes",
+    "street_food": "Comida Callejera",
+    "cuisine": "Cocina Mexicana"
+  },
+  "transport": {
+    "title": "Transporte",
+    "subtitle": "Cómo moverse por México",
+    "metro": "Metro",
+    "bus": "Autobús",
+    "taxi": "Taxi",
+    "airport": "Aeropuerto"
+  },
+  "lodging": {
+    "title": "Alojamiento",
+    "subtitle": "Dónde hospedarse en México",
+    "hotels": "Hoteles",
+    "hostels": "Hostales",
+    "airbnb": "Alquileres Vacacionales"
+  },
+  "tours": {
+    "title": "Tours",
+    "subtitle": "Tours guiados y experiencias",
+    "city_tours": "Tours por la Ciudad",
+    "day_trips": "Excursiones de un Día",
+    "cultural": "Tours Culturales"
+  },
+  "activities": {
+    "title": "Actividades",
+    "subtitle": "Qué hacer en México",
+    "stadiums": "Estadios",
+    "attractions": "Atracciones",
+    "sports": "Deportes"
+  },
+  "media": {
+    "title": "Medios",
+    "subtitle": "Noticias y recursos de medios",
+    "news": "Noticias",
+    "social": "Redes Sociales",
+    "apps": "Aplicaciones Útiles"
+  },
+  "lost_docs": {
+    "title": "Documentos Perdidos",
+    "subtitle": "Qué hacer si pierdes tus documentos",
+    "passport": "Pasaporte Perdido",
+    "id": "Identificación Perdida",
+    "steps": "Pasos a Seguir"
+  },
+  "states": {
+    "title": "Estados de México",
+    "subtitle": "Explora los 32 estados de México",
+    "host_cities": "Ciudades Sede",
+    "all_states": "Todos los Estados"
+  },
+  "destinations": {
+    "title": "Destinos",
+    "subtitle": "Guías de viaje por país",
+    "available": "Guías Disponibles",
+    "coming_soon": "Próximamente"
+  },
+  "nav": {
+    "home": "Inicio",
+    "embassy": "Embajadas",
+    "emergency": "Emergencias",
+    "legal": "Legal",
+    "dining": "Gastronomía",
+    "transport": "Transporte",
+    "lodging": "Alojamiento",
+    "tours": "Tours",
+    "activities": "Actividades",
+    "media": "Medios",
+    "lost_docs": "Docs Perdidos",
+    "states": "Estados",
+    "destinations": "Destinos"
+  },
+  "language": {
+    "select": "Seleccionar Idioma",
+    "current": "Español"
+  }
+}

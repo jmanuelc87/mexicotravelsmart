@@ -1,0 +1,115 @@
+{
+  "home": {
+    "title": "Mexico Travel Smart",
+    "subtitle": "2026年FIFA世界杯指南",
+    "welcome": "欢迎来到墨西哥",
+    "explore": "探索"
+  },
+  "embassy": {
+    "title": "大使馆和领事馆",
+    "subtitle": "在墨西哥找到您国家的大使馆或领事馆",
+    "address": "地址",
+    "phone": "电话",
+    "email": "电子邮件",
+    "hours": "营业时间"
+  },
+  "emergency": {
+    "title": "紧急联系电话",
+    "subtitle": "墨西哥重要紧急联系方式",
+    "call_911": "拨打911",
+    "tourist_assistance": "旅游援助",
+    "police": "警察",
+    "ambulance": "救护车",
+    "fire": "消防队",
+    "hospitals": "医院",
+    "pharmacies": "药店"
+  },
+  "legal": {
+    "title": "法律与保险",
+    "subtitle": "法律资源和旅行保险信息",
+    "insurance": "旅行保险",
+    "legal_aid": "法律援助",
+    "rights": "您的权利"
+  },
+  "dining": {
+    "title": "餐饮",
+    "subtitle": "墨西哥的餐厅和美食体验",
+    "restaurants": "餐厅",
+    "street_food": "街头小吃",
+    "cuisine": "墨西哥美食"
+  },
+  "transport": {
+    "title": "交通",
+    "subtitle": "在墨西哥出行",
+    "metro": "地铁",
+    "bus": "公共汽车",
+    "taxi": "出租车",
+    "airport": "机场"
+  },
+  "lodging": {
+    "title": "住宿",
+    "subtitle": "在墨西哥住哪里",
+    "hotels": "酒店",
+    "hostels": "青年旅舍",
+    "airbnb": "度假租赁"
+  },
+  "tours": {
+    "title": "旅游",
+    "subtitle": "导游游览和体验",
+    "city_tours": "城市游览",
+    "day_trips": "一日游",
+    "cultural": "文化游览"
+  },
+  "activities": {
+    "title": "活动",
+    "subtitle": "在墨西哥可以做什么",
+    "stadiums": "体育场",
+    "attractions": "景点",
+    "sports": "体育"
+  },
+  "media": {
+    "title": "媒体",
+    "subtitle": "新闻和媒体资源",
+    "news": "新闻",
+    "social": "社交媒体",
+    "apps": "实用应用"
+  },
+  "lost_docs": {
+    "title": "证件丢失",
+    "subtitle": "如果您丢失证件该怎么办",
+    "passport": "护照丢失",
+    "id": "身份证丢失",
+    "steps": "处理步骤"
+  },
+  "states": {
+    "title": "墨西哥各州",
+    "subtitle": "探索墨西哥32个州",
+    "host_cities": "举办城市",
+    "all_states": "所有州"
+  },
+  "destinations": {
+    "title": "目的地",
+    "subtitle": "各国旅行指南",
+    "available": "可用指南",
+    "coming_soon": "即将推出"
+  },
+  "nav": {
+    "home": "首页",
+    "embassy": "大使馆",
+    "emergency": "紧急",
+    "legal": "法律",
+    "dining": "餐饮",
+    "transport": "交通",
+    "lodging": "住宿",
+    "tours": "旅游",
+    "activities": "活动",
+    "media": "媒体",
+    "lost_docs": "证件丢失",
+    "states": "各州",
+    "destinations": "目的地"
+  },
+  "language": {
+    "select": "选择语言",
+    "current": "中文"
+  }
+}
