@@ -1,0 +1,17 @@
+.container {
+  padding: 1rem;
+  border: 2px dashed #ccc;
+  border-radius: 4px;
+  max-width: 400px;
+}
+
+.heading {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.description {
+  font-size: 0.875rem;
+  color: #555;
+}
