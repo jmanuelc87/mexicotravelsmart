@@ -1,10 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { useTranslation } from "../../lib/i18n/useTranslation";
+import { useTranslations } from "next-intl";
 
 export default function HomePage() {
-  const { t } = useTranslation();
+  const t = useTranslations();
 
   const sections = [
     { href: "/embassy", label: t("nav.embassy") },

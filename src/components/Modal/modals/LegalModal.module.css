@@ -1,0 +1,55 @@
+.modal {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px 12px;
+  border-bottom: 1px solid var(--border, #eee);
+  position: sticky;
+  top: 0;
+  background: var(--bg, #fff);
+  border-radius: 12px 12px 0 0;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.close {
+  background: none;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+  line-height: 1;
+  color: var(--text, #333);
+  padding: 0 4px;
+  flex-shrink: 0;
+}
+
+.body {
+  padding: 16px 20px 20px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--text, #333);
+}
+
+.body h2,
+.body h3 {
+  margin: 16px 0 8px;
+  font-size: 14px;
+  color: var(--primary, #006341);
+}
+
+.body p {
+  margin: 0 0 8px;
+}
+
+.body ul {
+  padding-left: 20px;
+  margin: 0 0 8px;
+}

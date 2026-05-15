@@ -1,0 +1,121 @@
+:root {
+  /* =====================
+     Colors — Primary
+  ===================== */
+  --primary: #E91E63;
+  --primary-dark: #C2185B;
+  --primary-light: #E94E77;
+  --primary-tint: #FFE0E6;
+
+  /* =====================
+     Colors — Accent
+  ===================== */
+  --accent: #FFC107;
+  --accent-alt: #e6c84c;
+
+  /* =====================
+     Colors — National
+  ===================== */
+  --green-dark: #006847;
+  --green: #009739;
+  --blue-dark: #1a237e;
+  --blue: #283593;
+
+  /* =====================
+     Colors — Semantic
+  ===================== */
+  --error: #d32f2f;
+
+  /* =====================
+     Colors — Surface
+  ===================== */
+  --bg: #F5F5F5;
+  --bg-alt: #f9f9f9;
+  --bg-body: #e0e0e0;
+  --white: #ffffff;
+
+  /* =====================
+     Colors — Text
+  ===================== */
+  --text: #333333;
+  --text-secondary: #666666;
+  --text-muted: #888888;
+  --text-disabled: #999999;
+
+  /* =====================
+     Colors — Border
+  ===================== */
+  --border: #cccccc;
+  --border-light: #eeeeee;
+  --border-lighter: #e0e0e0;
+
+  /* =====================
+     Shadows
+  ===================== */
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-pink: 0 6px 20px rgba(233, 78, 119, 0.35);
+
+  /* =====================
+     Typography — Family
+  ===================== */
+  --font-body: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  /* =====================
+     Typography — Scale
+     Values extracted as-is from legacy/index.html
+  ===================== */
+  --text-xxs: 0.55rem;
+  --text-xs: 0.65rem;
+  --text-sm1: 0.7rem;
+  --text-sm2: 0.72rem;
+  --text-sm3: 0.75rem;
+  --text-sm4: 0.78rem;
+  --text-sm5: 0.8rem;
+  --text-sm6: 0.82rem;
+  --text-sm7: 0.85rem;
+  --text-sm8: 0.88rem;
+  --text-base1: 0.9rem;
+  --text-base2: 0.95rem;
+  --text-base: 1rem;
+  --text-md1: 1.1rem;
+  --text-md2: 1.2rem;
+  --text-md3: 1.3rem;
+  --text-lg: 1.5rem;
+  --text-xl: 2.2rem;
+  --text-2xl: 2.5rem;
+  --text-3xl: 3rem;
+
+  /* =====================
+     Border Radius
+  ===================== */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+  --radius-xl: 15px;
+  --radius-2xl: 20px;
+  --radius-3xl: 25px;
+  --radius-full: 50%;
+
+  /* =====================
+     Spacing
+  ===================== */
+  --space-1: 1px;
+  --space-2: 2px;
+  --space-3: 3px;
+  --space-4: 4px;
+  --space-5: 5px;
+  --space-6: 6px;
+  --space-8: 8px;
+  --space-10: 10px;
+  --space-12: 12px;
+  --space-14: 14px;
+  --space-15: 15px;
+  --space-16: 16px;
+  --space-18: 18px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-30: 30px;
+  --space-60: 60px;
+  --space-100: 100px;
+}

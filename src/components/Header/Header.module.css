@@ -1,0 +1,43 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-10) var(--space-16);
+  background-color: var(--white);
+  border-bottom: 1px solid var(--border-light);
+  flex-shrink: 0;
+}
+
+.nav-buttons {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.btn-back,
+.btn-home {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-6) var(--space-12);
+  border: none;
+  border-radius: var(--radius-sm);
+  background-color: transparent;
+  color: var(--primary);
+  font-size: var(--text-sm7);
+  font-family: var(--font-body);
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.btn-back:hover,
+.btn-home:hover {
+  background-color: var(--primary-tint);
+}
+
+.btn-back:active,
+.btn-home:active {
+  background-color: var(--primary-tint);
+  opacity: 0.8;
+}

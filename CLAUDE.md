@@ -49,6 +49,10 @@ npm run format       # Prettier write
 npm run format:check # Prettier check
 ```
 
+## Architecture & Conventions
+
+See [docs/architecture.md](./docs/architecture.md) for the full conventions guide covering pages, components, modals, content files, and the provider layout.
+
 ## Styling
 
 All new components must use CSS Modules. See [STYLING.md](./STYLING.md) for the full styling guide, naming conventions, and the `ExampleCard` reference implementation.

@@ -1,9 +1,9 @@
 'use client';
 
-import { useTranslation } from '../../../lib/i18n/useTranslation';
+import { useTranslations } from 'next-intl';
 
 export default function EmergencyPage() {
-  const { t } = useTranslation();
+  const t = useTranslations();
 
   return (
     <main>

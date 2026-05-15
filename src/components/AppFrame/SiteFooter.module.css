@@ -1,0 +1,33 @@
+.footer {
+  margin-top: 30px;
+  padding: 16px 0 8px;
+  border-top: 1px solid var(--border, #eee);
+}
+
+.disclaimer {
+  font-size: 11px;
+  color: var(--text-muted, #888);
+  line-height: 1.5;
+  margin: 0 0 12px;
+}
+
+.links {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.link {
+  background: none;
+  border: none;
+  color: var(--primary, #006341);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.link:hover {
+  opacity: 0.75;
+}
