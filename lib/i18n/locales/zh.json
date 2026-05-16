@@ -8,10 +8,7 @@
   "embassy": {
     "title": "大使馆和领事馆",
     "subtitle": "在墨西哥找到您国家的大使馆或领事馆",
-    "address": "地址",
-    "phone": "电话",
-    "email": "电子邮件",
-    "hours": "营业时间"
+    "official_dir": "SRE官方目录"
   },
   "emergency": {
     "title": "紧急联系电话",
@@ -22,11 +19,20 @@
     "ambulance": "救护车",
     "fire": "消防队",
     "hospitals": "医院",
-    "pharmacies": "药店"
+    "pharmacies": "药店",
+    "numbers": "紧急电话",
+    "desc_911": "紧急情况（警察、消防、救护车）",
+    "locatel": "Locatel / 旅游警察",
+    "hospitals_cdmx": "🏥 医院 CDMX",
+    "hospitals_gdl": "🏥 医院 瓜达拉哈拉",
+    "hospitals_mty": "🏥 医院 蒙特雷",
+    "view_map": "在地图上查看"
   },
   "legal": {
     "title": "法律与保险",
     "subtitle": "法律资源和旅行保险信息",
+    "services": "⚖️ 法律服务",
+    "lho_desc": "旅行者和高管法律援助",
     "insurance": "旅行保险",
     "legal_aid": "法律援助",
     "rights": "您的权利"
@@ -36,7 +42,10 @@
     "subtitle": "墨西哥的餐厅和美食体验",
     "restaurants": "餐厅",
     "street_food": "街头小吃",
-    "cuisine": "墨西哥美食"
+    "cuisine": "墨西哥美食",
+    "guides_section": "美食指南",
+    "reservations_section": "预订",
+    "delivery_section": "外卖配送"
   },
   "transport": {
     "title": "交通",
@@ -51,7 +60,32 @@
     "subtitle": "在墨西哥住哪里",
     "hotels": "酒店",
     "hostels": "青年旅舍",
-    "airbnb": "度假租赁"
+    "airbnb": "度假租赁",
+    "platforms_section": "预订平台",
+    "chains_section": "连锁酒店",
+    "editorial_section": "编辑资源",
+    "platforms": {
+      "booking": "Booking.com",
+      "expedia": "Expedia",
+      "hotels": "Hotels.com",
+      "tripadvisor": "TripAdvisor",
+      "agoda": "Agoda",
+      "airbnb": "Airbnb",
+      "vrbo": "VRBO",
+      "homestay": "Homestay"
+    },
+    "chains": {
+      "marriott": "万豪",
+      "hilton": "希尔顿",
+      "hyatt": "凯悦",
+      "ihg": "洲际酒店集团",
+      "posadas": "Posadas",
+      "barcelo": "Barceló"
+    },
+    "editorial": {
+      "forbes": "福布斯旅行指南",
+      "condenast": "Condé Nast Traveler"
+    }
   },
   "tours": {
     "title": "旅游",

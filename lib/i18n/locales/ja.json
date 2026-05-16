@@ -8,10 +8,7 @@
   "embassy": {
     "title": "大使館・領事館",
     "subtitle": "メキシコにある自国の大使館または領事館を探す",
-    "address": "住所",
-    "phone": "電話",
-    "email": "メール",
-    "hours": "営業時間"
+    "official_dir": "SRE公式ディレクトリ"
   },
   "emergency": {
     "title": "緊急連絡先",
@@ -22,11 +19,20 @@
     "ambulance": "救急車",
     "fire": "消防署",
     "hospitals": "病院",
-    "pharmacies": "薬局"
+    "pharmacies": "薬局",
+    "numbers": "緊急電話番号",
+    "desc_911": "緊急（警察、消防、救急）",
+    "locatel": "ロカテル / 観光警察",
+    "hospitals_cdmx": "🏥 メキシコシティの病院",
+    "hospitals_gdl": "🏥 グアダラハラの病院",
+    "hospitals_mty": "🏥 モンテレイの病院",
+    "view_map": "地図で見る"
   },
   "legal": {
     "title": "法律・保険",
     "subtitle": "法的リソースと旅行保険情報",
+    "services": "⚖️ 法律相談",
+    "lho_desc": "旅行者への即時法律支援、企業法、法的事故、移民相談。",
     "insurance": "旅行保険",
     "legal_aid": "法的支援",
     "rights": "あなたの権利"
@@ -36,7 +42,10 @@
     "subtitle": "メキシコのレストランと食の体験",
     "restaurants": "レストラン",
     "street_food": "屋台料理",
-    "cuisine": "メキシコ料理"
+    "cuisine": "メキシコ料理",
+    "guides_section": "グルメガイド",
+    "reservations_section": "予約",
+    "delivery_section": "フードデリバリー"
   },
   "transport": {
     "title": "交通",
@@ -51,7 +60,32 @@
     "subtitle": "メキシコでの宿泊先",
     "hotels": "ホテル",
     "hostels": "ホステル",
-    "airbnb": "バケーションレンタル"
+    "airbnb": "バケーションレンタル",
+    "platforms_section": "予約プラットフォーム",
+    "chains_section": "ホテルチェーン",
+    "editorial_section": "編集リソース",
+    "platforms": {
+      "booking": "Booking.com",
+      "expedia": "Expedia",
+      "hotels": "Hotels.com",
+      "tripadvisor": "TripAdvisor",
+      "agoda": "Agoda",
+      "airbnb": "Airbnb",
+      "vrbo": "VRBO",
+      "homestay": "Homestay"
+    },
+    "chains": {
+      "marriott": "マリオット",
+      "hilton": "ヒルトン",
+      "hyatt": "ハイアット",
+      "ihg": "IHG",
+      "posadas": "Posadas",
+      "barcelo": "Barceló"
+    },
+    "editorial": {
+      "forbes": "Forbes Travel Guide",
+      "condenast": "Condé Nast Traveler"
+    }
   },
   "tours": {
     "title": "ツアー",

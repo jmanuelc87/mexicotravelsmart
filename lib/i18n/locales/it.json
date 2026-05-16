@@ -8,10 +8,7 @@
   "embassy": {
     "title": "Ambasciate e Consolati",
     "subtitle": "Trova l'ambasciata o il consolato del tuo paese in Messico",
-    "address": "Indirizzo",
-    "phone": "Telefono",
-    "email": "E-mail",
-    "hours": "Orari"
+    "official_dir": "Elenco Ufficiale SRE"
   },
   "emergency": {
     "title": "Numeri di Emergenza",
@@ -22,11 +19,20 @@
     "ambulance": "Ambulanza",
     "fire": "Vigili del Fuoco",
     "hospitals": "Ospedali",
-    "pharmacies": "Farmacie"
+    "pharmacies": "Farmacie",
+    "numbers": "Numeri di Emergenza",
+    "desc_911": "Emergenze (Polizia, Vigili del Fuoco, Ambulanza)",
+    "locatel": "Locatel / Polizia Turistica",
+    "hospitals_cdmx": "🏥 Ospedali CDMX",
+    "hospitals_gdl": "🏥 Ospedali Guadalajara",
+    "hospitals_mty": "🏥 Ospedali Monterrey",
+    "view_map": "Vedi sulla mappa"
   },
   "legal": {
     "title": "Legale e Assicurazioni",
     "subtitle": "Risorse legali e informazioni sull'assicurazione di viaggio",
+    "services": "⚖️ Servizi Legali",
+    "lho_desc": "Assistenza legale per viaggiatori e dirigenti",
     "insurance": "Assicurazione di Viaggio",
     "legal_aid": "Assistenza Legale",
     "rights": "I Tuoi Diritti"
@@ -36,7 +42,10 @@
     "subtitle": "Ristoranti ed esperienze culinarie in Messico",
     "restaurants": "Ristoranti",
     "street_food": "Street Food",
-    "cuisine": "Cucina Messicana"
+    "cuisine": "Cucina Messicana",
+    "guides_section": "Guide Gastronomiche",
+    "reservations_section": "Prenotazioni",
+    "delivery_section": "Consegna Cibo"
   },
   "transport": {
     "title": "Trasporti",
@@ -51,7 +60,32 @@
     "subtitle": "Dove soggiornare in Messico",
     "hotels": "Hotel",
     "hostels": "Ostelli",
-    "airbnb": "Affitti Vacanze"
+    "airbnb": "Affitti Vacanze",
+    "platforms_section": "Piattaforme di Prenotazione",
+    "chains_section": "Catene Alberghiere",
+    "editorial_section": "Risorse Editoriali",
+    "platforms": {
+      "booking": "Booking.com",
+      "expedia": "Expedia",
+      "hotels": "Hotels.com",
+      "tripadvisor": "TripAdvisor",
+      "agoda": "Agoda",
+      "airbnb": "Airbnb",
+      "vrbo": "VRBO",
+      "homestay": "Homestay"
+    },
+    "chains": {
+      "marriott": "Marriott",
+      "hilton": "Hilton",
+      "hyatt": "Hyatt",
+      "ihg": "IHG",
+      "posadas": "Posadas",
+      "barcelo": "Barceló"
+    },
+    "editorial": {
+      "forbes": "Forbes Travel Guide",
+      "condenast": "Condé Nast Traveler"
+    }
   },
   "tours": {
     "title": "Tour",

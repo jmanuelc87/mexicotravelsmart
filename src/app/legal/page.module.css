@@ -1,0 +1,43 @@
+.container {
+  padding: 0 16px;
+}
+
+.section {
+  margin-bottom: 24px;
+}
+
+.card {
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  margin-bottom: 10px;
+}
+
+.card h4 {
+  font-size: 0.95rem;
+  margin-bottom: 6px;
+}
+
+.card p {
+  font-size: 0.85rem;
+  margin: 3px 0;
+}
+
+.featured-card {
+  padding: 16px;
+  border: 2px solid #1d4ed8;
+  border-radius: 8px;
+  background: #eff6ff;
+  margin-bottom: 16px;
+}
+
+.featured-card h4 {
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.featured-card p {
+  font-size: 0.9rem;
+  margin: 4px 0;
+}

@@ -8,10 +8,7 @@
   "embassy": {
     "title": "대사관 및 영사관",
     "subtitle": "멕시코에 있는 귀국 대사관 또는 영사관 찾기",
-    "address": "주소",
-    "phone": "전화",
-    "email": "이메일",
-    "hours": "운영 시간"
+    "official_dir": "SRE 공식 디렉토리"
   },
   "emergency": {
     "title": "긴급 연락처",
@@ -22,11 +19,20 @@
     "ambulance": "구급차",
     "fire": "소방서",
     "hospitals": "병원",
-    "pharmacies": "약국"
+    "pharmacies": "약국",
+    "numbers": "응급 전화번호",
+    "desc_911": "응급 상황 (경찰, 소방, 구급차)",
+    "locatel": "Locatel / 관광 경찰",
+    "hospitals_cdmx": "🏥 병원 CDMX",
+    "hospitals_gdl": "🏥 병원 과달라하라",
+    "hospitals_mty": "🏥 병원 몬테레이",
+    "view_map": "지도에서 보기"
   },
   "legal": {
     "title": "법률 및 보험",
     "subtitle": "법적 자원 및 여행 보험 정보",
+    "services": "⚖️ 법률 서비스",
+    "lho_desc": "여행자 및 임원을 위한 법률 지원",
     "insurance": "여행 보험",
     "legal_aid": "법률 지원",
     "rights": "귀하의 권리"
@@ -36,7 +42,10 @@
     "subtitle": "멕시코의 레스토랑 및 음식 경험",
     "restaurants": "레스토랑",
     "street_food": "길거리 음식",
-    "cuisine": "멕시코 요리"
+    "cuisine": "멕시코 요리",
+    "guides_section": "미식 가이드",
+    "reservations_section": "예약",
+    "delivery_section": "음식 배달"
   },
   "transport": {
     "title": "교통",
@@ -51,7 +60,32 @@
     "subtitle": "멕시코에서 머물 곳",
     "hotels": "호텔",
     "hostels": "호스텔",
-    "airbnb": "휴가 렌탈"
+    "airbnb": "휴가 렌탈",
+    "platforms_section": "예약 플랫폼",
+    "chains_section": "호텔 체인",
+    "editorial_section": "편집 자료",
+    "platforms": {
+      "booking": "Booking.com",
+      "expedia": "Expedia",
+      "hotels": "Hotels.com",
+      "tripadvisor": "TripAdvisor",
+      "agoda": "Agoda",
+      "airbnb": "Airbnb",
+      "vrbo": "VRBO",
+      "homestay": "Homestay"
+    },
+    "chains": {
+      "marriott": "매리어트",
+      "hilton": "힐튼",
+      "hyatt": "하얏트",
+      "ihg": "IHG",
+      "posadas": "Posadas",
+      "barcelo": "Barceló"
+    },
+    "editorial": {
+      "forbes": "Forbes Travel Guide",
+      "condenast": "Condé Nast Traveler"
+    }
   },
   "tours": {
     "title": "투어",

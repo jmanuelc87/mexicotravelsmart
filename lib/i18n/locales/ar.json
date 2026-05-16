@@ -8,10 +8,7 @@
   "embassy": {
     "title": "السفارات والقنصليات",
     "subtitle": "ابحث عن سفارة أو قنصلية بلدك في المكسيك",
-    "address": "العنوان",
-    "phone": "الهاتف",
-    "email": "البريد الإلكتروني",
-    "hours": "ساعات العمل"
+    "official_dir": "الدليل الرسمي لـ SRE"
   },
   "emergency": {
     "title": "أرقام الطوارئ",
@@ -22,11 +19,20 @@
     "ambulance": "الإسعاف",
     "fire": "الإطفاء",
     "hospitals": "المستشفيات",
-    "pharmacies": "الصيدليات"
+    "pharmacies": "الصيدليات",
+    "numbers": "أرقام الطوارئ",
+    "desc_911": "طوارئ (شرطة، إطفاء، إسعاف)",
+    "locatel": "لوكاتيل / شرطة السياحة",
+    "hospitals_cdmx": "🏥 مستشفيات مكسيكو سيتي",
+    "hospitals_gdl": "🏥 مستشفيات غوادالاخارا",
+    "hospitals_mty": "🏥 مستشفيات مونتيري",
+    "view_map": "عرض على الخريطة"
   },
   "legal": {
     "title": "القانون والتأمين",
     "subtitle": "الموارد القانونية ومعلومات تأمين السفر",
+    "services": "⚖️ استشارة قانونية",
+    "lho_desc": "مساعدة قانونية فورية للمسافرين، قانون الشركات، حوادث قانونية، استشارات هجرة.",
     "insurance": "تأمين السفر",
     "legal_aid": "المساعدة القانونية",
     "rights": "حقوقك"
@@ -36,7 +42,10 @@
     "subtitle": "المطاعم والتجارب الغذائية في المكسيك",
     "restaurants": "المطاعم",
     "street_food": "طعام الشارع",
-    "cuisine": "المطبخ المكسيكي"
+    "cuisine": "المطبخ المكسيكي",
+    "guides_section": "أدلة الطعام",
+    "reservations_section": "الحجوزات",
+    "delivery_section": "توصيل الطعام"
   },
   "transport": {
     "title": "المواصلات",
@@ -51,7 +60,32 @@
     "subtitle": "أين تقيم في المكسيك",
     "hotels": "الفنادق",
     "hostels": "النزل",
-    "airbnb": "تأجير العطلات"
+    "airbnb": "تأجير العطلات",
+    "platforms_section": "منصات الحجز",
+    "chains_section": "سلاسل الفنادق",
+    "editorial_section": "موارد تحريرية",
+    "platforms": {
+      "booking": "Booking.com",
+      "expedia": "Expedia",
+      "hotels": "Hotels.com",
+      "tripadvisor": "TripAdvisor",
+      "agoda": "Agoda",
+      "airbnb": "Airbnb",
+      "vrbo": "VRBO",
+      "homestay": "Homestay"
+    },
+    "chains": {
+      "marriott": "ماريوت",
+      "hilton": "هيلتون",
+      "hyatt": "حياة",
+      "ihg": "IHG",
+      "posadas": "Posadas",
+      "barcelo": "Barceló"
+    },
+    "editorial": {
+      "forbes": "Forbes Travel Guide",
+      "condenast": "Condé Nast Traveler"
+    }
   },
   "tours": {
     "title": "الجولات",

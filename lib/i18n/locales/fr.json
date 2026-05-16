@@ -8,10 +8,7 @@
   "embassy": {
     "title": "Ambassades et Consulats",
     "subtitle": "Trouvez l'ambassade ou le consulat de votre pays au Mexique",
-    "address": "Adresse",
-    "phone": "Téléphone",
-    "email": "E-mail",
-    "hours": "Horaires"
+    "official_dir": "Répertoire officiel SRE"
   },
   "emergency": {
     "title": "Numéros d'Urgence",
@@ -22,11 +19,20 @@
     "ambulance": "Ambulance",
     "fire": "Pompiers",
     "hospitals": "Hôpitaux",
-    "pharmacies": "Pharmacies"
+    "pharmacies": "Pharmacies",
+    "numbers": "Numéros d'Urgence",
+    "desc_911": "Urgences (Police, Pompiers, Ambulance)",
+    "locatel": "Locatel / Police Touristique",
+    "hospitals_cdmx": "🏥 Hôpitaux CDMX",
+    "hospitals_gdl": "🏥 Hôpitaux Guadalajara",
+    "hospitals_mty": "🏥 Hôpitaux Monterrey",
+    "view_map": "Voir sur la carte"
   },
   "legal": {
     "title": "Juridique et Assurances",
     "subtitle": "Ressources juridiques et informations sur l'assurance voyage",
+    "services": "⚖️ Services Juridiques",
+    "lho_desc": "Assistance juridique pour voyageurs et cadres",
     "insurance": "Assurance Voyage",
     "legal_aid": "Aide Juridique",
     "rights": "Vos Droits"
@@ -36,7 +42,10 @@
     "subtitle": "Restaurants et expériences culinaires au Mexique",
     "restaurants": "Restaurants",
     "street_food": "Street Food",
-    "cuisine": "Cuisine Mexicaine"
+    "cuisine": "Cuisine Mexicaine",
+    "guides_section": "Guides Gastronomiques",
+    "reservations_section": "Réservations",
+    "delivery_section": "Livraison de Repas"
   },
   "transport": {
     "title": "Transport",
@@ -51,7 +60,32 @@
     "subtitle": "Où séjourner au Mexique",
     "hotels": "Hôtels",
     "hostels": "Auberges",
-    "airbnb": "Locations de Vacances"
+    "airbnb": "Locations de Vacances",
+    "platforms_section": "Plateformes de Réservation",
+    "chains_section": "Chaînes Hôtelières",
+    "editorial_section": "Ressources Éditoriales",
+    "platforms": {
+      "booking": "Booking.com",
+      "expedia": "Expedia",
+      "hotels": "Hotels.com",
+      "tripadvisor": "TripAdvisor",
+      "agoda": "Agoda",
+      "airbnb": "Airbnb",
+      "vrbo": "VRBO",
+      "homestay": "Homestay"
+    },
+    "chains": {
+      "marriott": "Marriott",
+      "hilton": "Hilton",
+      "hyatt": "Hyatt",
+      "ihg": "IHG",
+      "posadas": "Posadas",
+      "barcelo": "Barceló"
+    },
+    "editorial": {
+      "forbes": "Forbes Travel Guide",
+      "condenast": "Condé Nast Traveler"
+    }
   },
   "tours": {
     "title": "Visites Guidées",
