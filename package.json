@@ -26,6 +26,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.18",
     "prettier": "^3.8.3",
+    "to-ico": "^1.1.5",
     "typescript": "^5"
   }
 }
