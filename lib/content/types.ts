@@ -22,3 +22,10 @@ export interface Track {
   title: string;
   artist: string;
 }
+
+export interface CountryTip {
+  id: string;
+  visa: string;
+  tips: string;
+  culture: string;
+}
