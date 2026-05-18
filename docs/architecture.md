@@ -21,11 +21,12 @@ src/app/
 ### Anatomy of a page
 
 ```tsx
-'use client';                               // required — pages use hooks
+'use client'; // required — pages use hooks
 
 import { useTranslations } from 'next-intl';
 
-export default function ActivitiesPage() { // named export matching route, default
+export default function ActivitiesPage() {
+  // named export matching route, default
   const t = useTranslations();
 
   return (
@@ -42,6 +43,7 @@ export default function ActivitiesPage() { // named export matching route, defau
 ```
 
 Rules:
+
 - Always `'use client'` — pages use `useTranslations` and other client hooks.
 - Export must be `default`.
 - No props — pages receive nothing from the router (locale comes from the cookie via `next-intl`).
@@ -99,7 +101,7 @@ import styles from './ExampleCard.module.css';
 interface ExampleCardProps {
   title: string;
   description: string;
-  tag?: string;           // optional props use ?
+  tag?: string; // optional props use ?
 }
 
 export function ExampleCard({ title, description, tag }: ExampleCardProps) {
@@ -112,6 +114,7 @@ export function ExampleCard({ title, description, tag }: ExampleCardProps) {
 ```
 
 Rules:
+
 - Named export (not default).
 - Props interface named `<ComponentName>Props`, defined in the same file.
 - CSS class names: **kebab-case** in the `.module.css`, **bracket notation** in TSX (`styles['class-name']`).
@@ -137,7 +140,13 @@ ModalProvider (ModalContext.tsx)
 **1. Register the type** in `src/components/Modal/ModalContext.tsx`:
 
 ```tsx
-export type ModalType = 'phrases' | 'translator' | 'terms' | 'privacy' | 'ext-link' | 'my-new-modal';
+export type ModalType =
+  | 'phrases'
+  | 'translator'
+  | 'terms'
+  | 'privacy'
+  | 'ext-link'
+  | 'my-new-modal';
 ```
 
 **2. Create the modal component** under `src/components/Modal/modals/`:
@@ -152,7 +161,9 @@ Modal/
 **3. Wire it in `ModalPortal.tsx`**:
 
 ```tsx
-{modal.type === 'my-new-modal' && <MyNewModal />}
+{
+  modal.type === 'my-new-modal' && <MyNewModal />;
+}
 ```
 
 **4. Open it from any client component**:
@@ -183,15 +194,14 @@ export function MyNewModal() {
           &times;
         </button>
       </div>
-      <div className={styles['body']}>
-        {/* content */}
-      </div>
+      <div className={styles['body']}>{/* content */}</div>
     </div>
   );
 }
 ```
 
 Rules:
+
 - Always `'use client'`.
 - Named export.
 - Always render a close button that calls `closeModal()` with `aria-label="Close"`.

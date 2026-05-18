@@ -20,9 +20,7 @@ export function TemplateModal() {
           &times;
         </button>
       </div>
-      <div className={styles['body']}>
-        {/* Modal content here */}
-      </div>
+      <div className={styles['body']}>{/* Modal content here */}</div>
     </div>
   );
 }

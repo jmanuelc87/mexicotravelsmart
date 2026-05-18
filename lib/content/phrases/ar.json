@@ -1,0 +1,12 @@
+[
+  { "es": "¡Hola!", "trans": "!مرحباً", "pron": "OH-lah" },
+  { "es": "Buenos días", "trans": "صباح الخير", "pron": "BWEH-nos DEE-as" },
+  { "es": "¿Cuánto cuesta?", "trans": "كم الثمن؟", "pron": "KWAHN-toh KWES-tah" },
+  { "es": "La cuenta, por favor", "trans": "الحساب، من فضلك", "pron": "lah KWEN-tah por fah-VOR" },
+  { "es": "¿Dónde está el baño?", "trans": "أين الحمام؟", "pron": "DON-deh es-TAH el BAH-nyoh" },
+  { "es": "Un taxi, por favor", "trans": "سيارة أجرة، من فضلك", "pron": "oon TAK-see por fah-VOR" },
+  { "es": "Gracias", "trans": "شكراً", "pron": "GRAH-see-as" },
+  { "es": "No entiendo", "trans": "لا أفهم", "pron": "noh en-TYEN-doh" },
+  { "es": "¿Habla árabe?", "trans": "هل تتكلم العربية؟", "pron": "AH-blah AH-rah-beh" },
+  { "es": "¡Salud!", "trans": "!في صحتك", "pron": "sah-LOOD" }
+]

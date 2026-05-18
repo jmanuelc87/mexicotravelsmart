@@ -1,0 +1,68 @@
+.disclaimer {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-bottom: 24px;
+  padding: 10px 14px;
+  background: #f9fafb;
+  border-left: 3px solid #d1d5db;
+  border-radius: 4px;
+}
+
+.section {
+  margin-bottom: 32px;
+}
+
+.section-heading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 14px;
+  color: #374151;
+}
+
+.card {
+  padding: 14px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  margin-bottom: 10px;
+}
+
+.card-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0 0 6px;
+  color: #111827;
+}
+
+.card-desc {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin: 0 0 8px;
+}
+
+.card-link {
+  font-size: 0.85rem;
+  color: #1d4ed8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.card-link:hover {
+  text-decoration: underline;
+}
+
+.featured-card {
+  border-left: 4px solid #8b1538;
+  background: linear-gradient(135deg, #fffbe6 0%, #fff 100%);
+}
+
+.livestream-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin: 15px 0;
+}
+
+.livestream-card {
+  border-left: 4px solid #e91e63;
+}

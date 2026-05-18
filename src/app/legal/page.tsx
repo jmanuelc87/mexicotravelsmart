@@ -49,7 +49,11 @@ export default function LegalPage() {
             <h4>Allianz Travel</h4>
             <p>
               🌐{' '}
-              <a href="https://www.allianz-assistance.com" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://www.allianz-assistance.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 allianz-assistance.com
               </a>
             </p>

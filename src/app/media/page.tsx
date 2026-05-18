@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { useTranslations } from 'next-intl';
 
@@ -8,10 +8,10 @@ export default function MediaPage() {
   return (
     <main>
       <header>
-        <h1>{t("media.title")}</h1>
+        <h1>{t('media.title')}</h1>
       </header>
       <section>
-        <p>{t("media.subtitle")}</p>
+        <p>{t('media.subtitle')}</p>
         {/* Media content will be added here */}
       </section>
     </main>

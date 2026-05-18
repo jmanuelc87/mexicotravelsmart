@@ -1,0 +1,51 @@
+.card {
+  padding: 14px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  margin-bottom: 12px;
+}
+
+.emergency-card {
+  padding: 16px;
+  border: 2px solid #f59e0b;
+  border-radius: 8px;
+  background: #fffbeb;
+  margin-bottom: 16px;
+}
+
+.section-heading {
+  margin: 20px 0 8px;
+  font-size: 1.1rem;
+}
+
+.step-list {
+  list-style: disc;
+  padding-left: 20px;
+  margin: 8px 0;
+}
+
+.step-list li {
+  margin: 4px 0;
+}
+
+.nav-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.nav-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #2563eb;
+  color: #fff;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.nav-btn:hover {
+  background: #1d4ed8;
+}

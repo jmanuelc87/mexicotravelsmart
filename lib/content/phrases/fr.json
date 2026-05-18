@@ -1,0 +1,24 @@
+[
+  { "es": "¡Hola!", "trans": "Bonjour!", "pron": "OH-lah" },
+  { "es": "Buenos días", "trans": "Bonjour", "pron": "BWEH-nos DEE-as" },
+  { "es": "¿Cuánto cuesta?", "trans": "Combien ça coûte?", "pron": "KWAHN-toh KWES-tah" },
+  {
+    "es": "La cuenta, por favor",
+    "trans": "L'addition, s'il vous plaît",
+    "pron": "lah KWEN-tah por fah-VOR"
+  },
+  {
+    "es": "¿Dónde está el baño?",
+    "trans": "Où sont les toilettes?",
+    "pron": "DON-deh es-TAH el BAH-nyoh"
+  },
+  {
+    "es": "Un taxi, por favor",
+    "trans": "Un taxi, s'il vous plaît",
+    "pron": "oon TAK-see por fah-VOR"
+  },
+  { "es": "Gracias", "trans": "Merci", "pron": "GRAH-see-as" },
+  { "es": "No entiendo", "trans": "Je ne comprends pas", "pron": "noh en-TYEN-doh" },
+  { "es": "¿Habla francés?", "trans": "Parlez-vous français?", "pron": "AH-blah frahn-SES" },
+  { "es": "¡Salud!", "trans": "Santé!", "pron": "sah-LOOD" }
+]

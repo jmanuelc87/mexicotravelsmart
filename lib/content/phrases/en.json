@@ -1,0 +1,20 @@
+[
+  { "es": "¡Hola!", "trans": "Hello!", "pron": "OH-lah" },
+  { "es": "Buenos días", "trans": "Good morning", "pron": "BWEH-nos DEE-as" },
+  { "es": "¿Cuánto cuesta?", "trans": "How much does it cost?", "pron": "KWAHN-toh KWES-tah" },
+  {
+    "es": "La cuenta, por favor",
+    "trans": "The check, please",
+    "pron": "lah KWEN-tah por fah-VOR"
+  },
+  {
+    "es": "¿Dónde está el baño?",
+    "trans": "Where is the bathroom?",
+    "pron": "DON-deh es-TAH el BAH-nyoh"
+  },
+  { "es": "Un taxi, por favor", "trans": "A taxi, please", "pron": "oon TAK-see por fah-VOR" },
+  { "es": "Gracias", "trans": "Thank you", "pron": "GRAH-see-as" },
+  { "es": "No entiendo", "trans": "I don't understand", "pron": "noh en-TYEN-doh" },
+  { "es": "¿Habla inglés?", "trans": "Do you speak English?", "pron": "AH-blah een-GLES" },
+  { "es": "¡Salud!", "trans": "Cheers! / Bless you!", "pron": "sah-LOOD" }
+]

@@ -1,0 +1,47 @@
+.states-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  padding: 1rem 0;
+}
+
+.state-card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.state-heading {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #006847;
+  margin: 0 0 0.75rem;
+}
+
+.destination-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.destination-list li a {
+  color: #1a1a1a;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.destination-list li a:hover {
+  color: #006847;
+  text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+  .states-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -9,7 +9,12 @@ interface Consulate {
 }
 
 const consulates: Consulate[] = [
-  { flag: '🇺🇸', name: 'United States', phone: '+525550802000', mapQuery: 'Embajada+Estados+Unidos' },
+  {
+    flag: '🇺🇸',
+    name: 'United States',
+    phone: '+525550802000',
+    mapQuery: 'Embajada+Estados+Unidos',
+  },
   { flag: '🇨🇦', name: 'Canada', phone: '+525557247900', mapQuery: 'Embajada+Canad%C3%A1' },
   { flag: '🇬🇧', name: 'United Kingdom', phone: '+525516703200', mapQuery: 'Embajada+Reino+Unido' },
   { flag: '🇫🇷', name: 'France', phone: '+525591719700', mapQuery: 'Embajada+Francia' },
@@ -20,10 +25,20 @@ const consulates: Consulate[] = [
   { flag: '🇦🇷', name: 'Argentina', phone: '+525555209430', mapQuery: 'Embajada+Argentina' },
   { flag: '🇨🇴', name: 'Colombia', phone: '+525555250277', mapQuery: 'Embajada+Colombia' },
   { flag: '🇯🇵', name: 'Japan', phone: '+525552110028', mapQuery: 'Embajada+Jap%C3%B3n' },
-  { flag: '🇰🇷', name: 'South Korea', phone: '+525552029866', mapQuery: 'Embajada+Rep%C3%BAblica+de+Corea' },
+  {
+    flag: '🇰🇷',
+    name: 'South Korea',
+    phone: '+525552029866',
+    mapQuery: 'Embajada+Rep%C3%BAblica+de+Corea',
+  },
   { flag: '🇦🇺', name: 'Australia', phone: '+525511012200', mapQuery: 'Embajada+Australia' },
   { flag: '🇳🇿', name: 'New Zealand', phone: '+525552839460', mapQuery: 'Embajada+Nueva+Zelanda' },
-  { flag: '🇳🇱', name: 'Netherlands', phone: '+525511056550', mapQuery: 'Embajada+Pa%C3%ADses+Bajos' },
+  {
+    flag: '🇳🇱',
+    name: 'Netherlands',
+    phone: '+525511056550',
+    mapQuery: 'Embajada+Pa%C3%ADses+Bajos',
+  },
   { flag: '🇧🇪', name: 'Belgium', phone: '+525552800758', mapQuery: 'Embajada+B%C3%A9lgica' },
   { flag: '🇨🇭', name: 'Switzerland', phone: '+525591784370', mapQuery: 'Embajada+Suiza' },
   { flag: '🇦🇹', name: 'Austria', phone: '+525552510806', mapQuery: 'Embajada+Austria' },

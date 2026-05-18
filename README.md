@@ -23,14 +23,14 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ## Available Scripts
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Start dev server with Turbopack |
-| `npm run build` | Production build |
-| `npm run start` | Start production server |
-| `npm run lint` | Run ESLint |
-| `npm run format` | Format with Prettier |
-| `npm run format:check` | Check formatting |
+| Command                | Description                     |
+| ---------------------- | ------------------------------- |
+| `npm run dev`          | Start dev server with Turbopack |
+| `npm run build`        | Production build                |
+| `npm run start`        | Start production server         |
+| `npm run lint`         | Run ESLint                      |
+| `npm run format`       | Format with Prettier            |
+| `npm run format:check` | Check formatting                |
 
 ## Styling
 

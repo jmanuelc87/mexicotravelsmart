@@ -1,0 +1,24 @@
+[
+  { "es": "¡Hola!", "trans": "こんにちは！", "pron": "OH-lah" },
+  { "es": "Buenos días", "trans": "おはようございます", "pron": "BWEH-nos DEE-as" },
+  { "es": "¿Cuánto cuesta?", "trans": "いくらですか？", "pron": "KWAHN-toh KWES-tah" },
+  {
+    "es": "La cuenta, por favor",
+    "trans": "お会計お願いします",
+    "pron": "lah KWEN-tah por fah-VOR"
+  },
+  {
+    "es": "¿Dónde está el baño?",
+    "trans": "トイレはどこですか？",
+    "pron": "DON-deh es-TAH el BAH-nyoh"
+  },
+  {
+    "es": "Un taxi, por favor",
+    "trans": "タクシーをお願いします",
+    "pron": "oon TAK-see por fah-VOR"
+  },
+  { "es": "Gracias", "trans": "ありがとう", "pron": "GRAH-see-as" },
+  { "es": "No entiendo", "trans": "わかりません", "pron": "noh en-TYEN-doh" },
+  { "es": "¿Habla japonés?", "trans": "日本語を話しますか？", "pron": "AH-blah hah-poh-NES" },
+  { "es": "¡Salud!", "trans": "乾杯！", "pron": "sah-LOOD" }
+]

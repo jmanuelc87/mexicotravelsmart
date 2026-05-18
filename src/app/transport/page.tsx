@@ -26,9 +26,7 @@ export default function TransportPage() {
               <a href={service.href} target="_blank" rel="noopener noreferrer">
                 {service.name}
               </a>
-              {service.fare && (
-                <p className={styles['fare']}>Tarifa: {service.fare}</p>
-              )}
+              {service.fare && <p className={styles['fare']}>Tarifa: {service.fare}</p>}
             </div>
           ))}
         </div>

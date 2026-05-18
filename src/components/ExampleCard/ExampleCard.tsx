@@ -9,9 +9,7 @@ interface ExampleCardProps {
 export function ExampleCard({ title, description, tag }: ExampleCardProps) {
   return (
     <article className={styles['card-root']}>
-      {tag && (
-        <span className={`${styles['card-tag']} sr-only-visible`}>{tag}</span>
-      )}
+      {tag && <span className={`${styles['card-tag']} sr-only-visible`}>{tag}</span>}
       <h3 className={styles['card-title']}>{title}</h3>
       <p className={styles['card-description']}>{description}</p>
       <footer className={styles['card-footer']}>

@@ -2,15 +2,15 @@
   /* =====================
      Colors — Primary
   ===================== */
-  --primary: #E91E63;
-  --primary-dark: #C2185B;
-  --primary-light: #E94E77;
-  --primary-tint: #FFE0E6;
+  --primary: #e91e63;
+  --primary-dark: #c2185b;
+  --primary-light: #e94e77;
+  --primary-tint: #ffe0e6;
 
   /* =====================
      Colors — Accent
   ===================== */
-  --accent: #FFC107;
+  --accent: #ffc107;
   --accent-alt: #e6c84c;
 
   /* =====================
@@ -29,7 +29,7 @@
   /* =====================
      Colors — Surface
   ===================== */
-  --bg: #F5F5F5;
+  --bg: #f5f5f5;
   --bg-alt: #f9f9f9;
   --bg-body: #e0e0e0;
   --white: #ffffff;

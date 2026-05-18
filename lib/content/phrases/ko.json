@@ -1,0 +1,16 @@
+[
+  { "es": "¡Hola!", "trans": "안녕하세요!", "pron": "OH-lah" },
+  { "es": "Buenos días", "trans": "좋은 아침", "pron": "BWEH-nos DEE-as" },
+  { "es": "¿Cuánto cuesta?", "trans": "얼마예요?", "pron": "KWAHN-toh KWES-tah" },
+  { "es": "La cuenta, por favor", "trans": "계산서 주세요", "pron": "lah KWEN-tah por fah-VOR" },
+  {
+    "es": "¿Dónde está el baño?",
+    "trans": "화장실 어디예요?",
+    "pron": "DON-deh es-TAH el BAH-nyoh"
+  },
+  { "es": "Un taxi, por favor", "trans": "택시 주세요", "pron": "oon TAK-see por fah-VOR" },
+  { "es": "Gracias", "trans": "감사합니다", "pron": "GRAH-see-as" },
+  { "es": "No entiendo", "trans": "이해하지 못해요", "pron": "noh en-TYEN-doh" },
+  { "es": "¿Habla coreano?", "trans": "한국어 하세요?", "pron": "AH-blah koh-reh-AH-noh" },
+  { "es": "¡Salud!", "trans": "건배!", "pron": "sah-LOOD" }
+]

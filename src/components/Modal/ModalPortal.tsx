@@ -82,7 +82,7 @@ function ModalPortal() {
         closeModal();
       }
     },
-    [backdropDismissible, closeModal],
+    [backdropDismissible, closeModal]
   );
 
   if (!modal) return null;
@@ -94,11 +94,7 @@ function ModalPortal() {
       aria-modal="true"
       onClick={handleBackdropClick}
     >
-      <div
-        ref={containerRef}
-        className={styles['container']}
-        dir={isRTL ? 'rtl' : 'ltr'}
-      >
+      <div ref={containerRef} className={styles['container']} dir={isRTL ? 'rtl' : 'ltr'}>
         {modal.type === 'phrases' && <PhrasesModal />}
         {modal.type === 'translator' && <TranslatorModal />}
         {modal.type === 'terms' && <TermsModal locale={locale} />}

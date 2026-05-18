@@ -6,10 +6,10 @@ This project uses two coexisting styling approaches: a **legacy global CSS file*
 
 ## Pattern Overview
 
-| Approach | When to use | Scope |
-|---|---|---|
-| Legacy CSS (`styles/...`) | Existing components and pages only | Global |
-| CSS Modules (`*.module.css`) | All new components | Component-scoped |
+| Approach                     | When to use                        | Scope            |
+| ---------------------------- | ---------------------------------- | ---------------- |
+| Legacy CSS (`styles/...`)    | Existing components and pages only | Global           |
+| CSS Modules (`*.module.css`) | All new components                 | Component-scoped |
 
 Do not use legacy CSS classes in new components. New components must use CSS Modules.
 
@@ -59,11 +59,7 @@ Avoid camelCase or PascalCase in CSS files. When accessing classes in TypeScript
 import styles from './Button.module.css';
 
 export function Button({ label }: { label: string }) {
-  return (
-    <button className={styles['button-root']}>
-      {label}
-    </button>
-  );
+  return <button className={styles['button-root']}>{label}</button>;
 }
 ```
 

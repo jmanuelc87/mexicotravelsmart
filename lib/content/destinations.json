@@ -1,0 +1,26 @@
+{
+  "intl": [
+    { "emoji": "🇰🇷", "name": "Corea del Sur", "tag": "Asia · K-Pop", "page": "korea" },
+    { "emoji": "🇯🇵", "name": "Japón", "tag": "Asia · Tradición" },
+    { "emoji": "🇫🇷", "name": "Francia", "tag": "Europa · Cultura" },
+    { "emoji": "🇮🇹", "name": "Italia", "tag": "Europa · Gastronomía" },
+    { "emoji": "🇪🇸", "name": "España", "tag": "Europa · Fiesta" },
+    { "emoji": "🇧🇷", "name": "Brasil", "tag": "América · Aventura" },
+    { "emoji": "🇦🇷", "name": "Argentina", "tag": "América · Sabor" },
+    { "emoji": "🇺🇸", "name": "Estados Unidos", "tag": "América · Diversidad" },
+    { "emoji": "🇨🇳", "name": "China", "tag": "Asia · Historia" },
+    { "emoji": "🇬🇧", "name": "Reino Unido", "tag": "Europa · Clásico" }
+  ],
+  "national": [
+    { "emoji": "🏙️", "name": "Ciudad de México", "tag": "Capital · Cultura", "page": "states" },
+    { "emoji": "🌊", "name": "Cancún", "tag": "Q. Roo · Playa" },
+    { "emoji": "🏖️", "name": "Los Cabos", "tag": "BCS · Mar" },
+    { "emoji": "🌵", "name": "Guadalajara", "tag": "Jalisco · Tradición" },
+    { "emoji": "⛰️", "name": "Monterrey", "tag": "NL · Negocio" },
+    { "emoji": "🌺", "name": "Oaxaca", "tag": "Oaxaca · Arte" },
+    { "emoji": "🐚", "name": "Puerto Vallarta", "tag": "Jalisco · Resort" },
+    { "emoji": "🏛️", "name": "Mérida", "tag": "Yucatán · Maya" },
+    { "emoji": "🎭", "name": "San Cristóbal", "tag": "Chiapas · Colonial" },
+    { "emoji": "🌅", "name": "Tulum", "tag": "Q. Roo · Eco" }
+  ]
+}

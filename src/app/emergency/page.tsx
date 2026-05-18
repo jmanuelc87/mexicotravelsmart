@@ -74,7 +74,11 @@ export default function EmergencyPage() {
             </p>
             <p>
               🌐{' '}
-              <a href="https://hospitalangeles.com/pedregal" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://hospitalangeles.com/pedregal"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 hospitalangeles.com
               </a>
             </p>
@@ -115,7 +119,11 @@ export default function EmergencyPage() {
             </p>
             <p>
               🌐{' '}
-              <a href="https://hospitalespuertadehierro.com" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://hospitalespuertadehierro.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 hospitalespuertadehierro.com
               </a>
             </p>
@@ -166,7 +174,11 @@ export default function EmergencyPage() {
           <h4>Farmacias Guadalajara</h4>
           <p>
             🌐{' '}
-            <a href="https://www.farmaciasguadalajara.com" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://www.farmaciasguadalajara.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               farmaciasguadalajara.com
             </a>
           </p>

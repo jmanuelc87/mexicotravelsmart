@@ -1,0 +1,12 @@
+[
+  { "es": "¡Hola!", "trans": "你好!", "pron": "OH-lah" },
+  { "es": "Buenos días", "trans": "早上好", "pron": "BWEH-nos DEE-as" },
+  { "es": "¿Cuánto cuesta?", "trans": "多少钱?", "pron": "KWAHN-toh KWES-tah" },
+  { "es": "La cuenta, por favor", "trans": "请结账", "pron": "lah KWEN-tah por fah-VOR" },
+  { "es": "¿Dónde está el baño?", "trans": "洗手间在哪?", "pron": "DON-deh es-TAH el BAH-nyoh" },
+  { "es": "Un taxi, por favor", "trans": "请叫出租车", "pron": "oon TAK-see por fah-VOR" },
+  { "es": "Gracias", "trans": "谢谢", "pron": "GRAH-see-as" },
+  { "es": "No entiendo", "trans": "我不懂", "pron": "noh en-TYEN-doh" },
+  { "es": "¿Habla chino?", "trans": "你说中文吗?", "pron": "AH-blah CHEE-noh" },
+  { "es": "¡Salud!", "trans": "干杯!", "pron": "sah-LOOD" }
+]
