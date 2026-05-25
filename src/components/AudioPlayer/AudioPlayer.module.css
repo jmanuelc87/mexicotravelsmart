@@ -50,11 +50,11 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  gap: var(--space-6) var(--space-10);
-  padding: var(--space-8) var(--space-12);
+  gap: var(--space-8) var(--space-12);
+  padding: var(--space-12) var(--space-16);
   /* Account for iOS safe area when sticky-bottom */
-  padding-bottom: max(var(--space-8), env(safe-area-inset-bottom));
-  max-height: 80px;
+  padding-bottom: max(var(--space-12), env(safe-area-inset-bottom));
+  max-height: 108px;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(12px);
@@ -70,17 +70,17 @@
 
 .player--compact .album-art,
 .player--compact .album-art-placeholder {
-  width: 44px;
-  height: 44px;
+  width: 56px;
+  height: 56px;
   flex-shrink: 0;
 }
 
 .player--compact .track-title {
-  font-size: var(--text-sm7);
+  font-size: var(--text-sm);
 }
 
 .player--compact .track-artist {
-  font-size: var(--text-xs);
+  font-size: var(--text-sm3);
 }
 
 .player--compact .preview-badge {

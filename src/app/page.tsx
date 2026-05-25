@@ -1,12 +1,19 @@
-'use client';
-
 import Image from 'next/image';
 import Link from 'next/link';
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
+import { cookies } from 'next/headers';
+import { getIronSession } from 'iron-session';
+import { type SessionData, sessionOptions } from '../../lib/session';
+import { AudioPlayer } from '../components/AudioPlayer';
+import { tracks } from '../../lib/content/tracks';
 import styles from './page.module.css';
 
-export default function HomePage() {
-  const t = useTranslations();
+export default async function HomePage() {
+  const t = await getTranslations();
+
+  const cookieStore = await cookies();
+  const session = await getIronSession<SessionData>(cookieStore, sessionOptions);
+  const isAuthenticated = !!session.access_token;
 
   const sections = [
     { href: '/emergency', key: 'nav.emergency', icon: '/images/tile-emergency.png', alt: 'Emergency' },
@@ -36,6 +43,9 @@ export default function HomePage() {
         <h2 className={styles['hero-heading']}>{t('home.welcome')}</h2>
         <p className={styles['hero-subtitle']}>{t('home.subtitle')}</p>
       </div>
+      <section className={styles['player-section']} aria-label="Music player">
+        <AudioPlayer mode="full" tracks={tracks} isAuthenticated={isAuthenticated} />
+      </section>
       <div className={styles['menu-grid']}>
         {sections.map(({ href, key, icon, alt }) => (
           <Link

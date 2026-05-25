@@ -34,7 +34,7 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
   // Spotify returned an error (e.g. user denied access)
   if (error) {
     return NextResponse.redirect(
-      new URL(`/media?error=${encodeURIComponent(error)}`, request.url),
+      new URL(`/?error=${encodeURIComponent(error)}`, request.url),
     );
   }
 
@@ -114,5 +114,5 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
   session.oauth_state = undefined;
   await session.save();
 
-  return NextResponse.redirect(new URL('/media', request.url));
+  return NextResponse.redirect(new URL('/', request.url));
 }

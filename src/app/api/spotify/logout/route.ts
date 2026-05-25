@@ -20,5 +20,5 @@ export async function POST(request: NextRequest): Promise<NextResponse> {
   session.destroy();
   await session.save();
 
-  return NextResponse.redirect(new URL('/media', request.url));
+  return NextResponse.redirect(new URL('/', request.url));
 }

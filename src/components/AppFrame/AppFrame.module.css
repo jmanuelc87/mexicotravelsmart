@@ -32,7 +32,9 @@
   flex: 1;
   overflow-y: auto;
   padding: 20px;
-  padding-bottom: 60px;
+  /* toolbar is 60px from frame bottom, 5px bottom-bar, ~36px button height
+     → toolbar top is ~91px above content bottom; use 100px for breathing room */
+  padding-bottom: 105px;
   scroll-behavior: smooth;
   -webkit-overflow-scrolling: touch;
 }

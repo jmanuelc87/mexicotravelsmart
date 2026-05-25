@@ -294,8 +294,8 @@ function AudioPlayerLocked({ mode, tracks }: Pick<InnerProps, 'mode' | 'tracks'>
         <AudioPlayerProgress currentTime={0} duration={0} onSeek={() => {}} />
       </div>
 
-      {/* ── Connect prompt ─────────────────────────────────────────────── */}
-      <SpotifyConnectPrompt />
+      {/* ── Connect prompt — full mode only; too tall for compact bar ──── */}
+      {mode === 'full' && <SpotifyConnectPrompt />}
 
       {/* ── Full-mode track list (muted items) ────────────────────────── */}
       {mode === 'full' && (

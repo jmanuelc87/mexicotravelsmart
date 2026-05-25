@@ -67,3 +67,7 @@
 .menu-card-full {
   grid-column: span 2;
 }
+
+.player-section {
+  margin-bottom: 20px;
+}
