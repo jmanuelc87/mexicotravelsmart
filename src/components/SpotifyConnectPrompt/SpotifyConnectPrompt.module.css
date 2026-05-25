@@ -1,0 +1,59 @@
+/* ============================================================
+   SpotifyConnectPrompt.module.css
+   Inline prompt shown below the locked AudioPlayer controls.
+   Follows CSS Modules conventions: kebab-case class names,
+   bracket notation in TSX, no global CSS modified.
+   ============================================================ */
+
+/* ── Container ───────────────────────────────────────────────────────────── */
+
+.prompt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius-md, 8px);
+  background-color: var(--bg-alt, #f9f9f9);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+/* ── Message text ─────────────────────────────────────────────────────────── */
+
+.prompt-message {
+  margin: 0;
+  font-size: 0.875rem;
+  color: var(--text-muted, #666);
+  line-height: 1.4;
+}
+
+/* ── Connect button ──────────────────────────────────────────────────────── */
+
+.connect-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1.25rem;
+  border-radius: 9999px;
+  background-color: #1db954; /* Spotify brand green */
+  color: #ffffff;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.15s ease, transform 0.1s ease;
+  white-space: nowrap;
+}
+
+.connect-btn:hover {
+  background-color: #17a349;
+}
+
+.connect-btn:active {
+  transform: scale(0.97);
+}
+
+.connect-btn:focus-visible {
+  outline: 2px solid #1db954;
+  outline-offset: 3px;
+}

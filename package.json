@@ -8,11 +8,15 @@
     "start": "next start",
     "lint": "eslint",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
     "@next/mdx": "^16.2.6",
     "@types/mdx": "^2.0.13",
+    "iron-session": "^8.0.4",
     "next": "15.5.18",
     "next-intl": "^4.12.0",
     "react": "19.1.0",
@@ -23,10 +27,12 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitest/coverage-v8": "^4.1.7",
     "eslint": "^9",
     "eslint-config-next": "15.5.18",
     "prettier": "^3.8.3",
     "to-ico": "^1.1.5",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^4.1.7"
   }
 }

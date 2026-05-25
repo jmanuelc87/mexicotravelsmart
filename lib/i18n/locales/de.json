@@ -184,5 +184,28 @@
   "language": {
     "select": "Sprache auswählen",
     "current": "Deutsch"
+  },
+  "audio_player": {
+    "play": "Abspielen",
+    "pause": "Pausieren",
+    "next_track": "Nächster Titel",
+    "prev_track": "Vorheriger Titel",
+    "seek": "Suchen",
+    "playback_progress": "Wiedergabefortschritt",
+    "mute": "Stummschalten",
+    "unmute": "Ton aktivieren",
+    "preview_unavailable": "Vorschau nicht verfügbar",
+    "player_label": "Audioplayer",
+    "now_playing": "Wird abgespielt: {title} von {artist}",
+    "paused": "Pausiert",
+    "loading_track": "Wird geladen: {title}",
+    "track_list_label": "Titelliste"
+  },
+  "spotify_connect": {
+    "connect_message": "Verbinden Sie Ihr Spotify-Konto, um vollständige Titel zu hören",
+    "connect_button": "Spotify verbinden",
+    "disconnect": "Spotify trennen",
+    "premium_required": "Spotify Premium ist für die Wiedergabe erforderlich",
+    "reconnect": "Spotify erneut verbinden"
   }
 }

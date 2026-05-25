@@ -184,5 +184,28 @@
   "language": {
     "select": "Seleccionar Idioma",
     "current": "Español"
+  },
+  "audio_player": {
+    "play": "Reproducir",
+    "pause": "Pausar",
+    "next_track": "Siguiente pista",
+    "prev_track": "Pista anterior",
+    "seek": "Buscar posición",
+    "playback_progress": "Progreso de reproducción",
+    "mute": "Silenciar",
+    "unmute": "Activar sonido",
+    "preview_unavailable": "Vista previa no disponible",
+    "player_label": "Reproductor de audio",
+    "now_playing": "Reproduciendo: {title} de {artist}",
+    "paused": "Pausado",
+    "loading_track": "Cargando: {title}",
+    "track_list_label": "Lista de pistas"
+  },
+  "spotify_connect": {
+    "connect_message": "Conecta tu cuenta de Spotify para escuchar pistas completas",
+    "connect_button": "Conectar Spotify",
+    "disconnect": "Desconectar Spotify",
+    "premium_required": "Se requiere Spotify Premium para reproducir",
+    "reconnect": "Reconectar Spotify"
   }
 }

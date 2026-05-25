@@ -1,0 +1,1 @@
+export { SpotifyConnectPrompt } from './SpotifyConnectPrompt';

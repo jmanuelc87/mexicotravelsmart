@@ -184,5 +184,28 @@
   "language": {
     "select": "اختر اللغة",
     "current": "العربية"
+  },
+  "audio_player": {
+    "play": "تشغيل",
+    "pause": "إيقاف مؤقت",
+    "next_track": "المقطع التالي",
+    "prev_track": "المقطع السابق",
+    "seek": "البحث",
+    "playback_progress": "تقدم التشغيل",
+    "mute": "كتم الصوت",
+    "unmute": "تفعيل الصوت",
+    "preview_unavailable": "المعاينة غير متاحة",
+    "player_label": "مشغل الصوت",
+    "now_playing": "يعزف الآن: {title} لـ {artist}",
+    "paused": "متوقف مؤقتاً",
+    "loading_track": "جارٍ التحميل: {title}",
+    "track_list_label": "قائمة المسارات"
+  },
+  "spotify_connect": {
+    "connect_message": "اربط حساب Spotify للاستماع إلى المقاطع الكاملة",
+    "connect_button": "ربط Spotify",
+    "disconnect": "قطع الاتصال بـ Spotify",
+    "premium_required": "يلزم Spotify Premium للتشغيل",
+    "reconnect": "إعادة الاتصال بـ Spotify"
   }
 }

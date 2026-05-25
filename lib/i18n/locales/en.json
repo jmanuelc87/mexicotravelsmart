@@ -184,5 +184,28 @@
   "language": {
     "select": "Select Language",
     "current": "English"
+  },
+  "audio_player": {
+    "play": "Play",
+    "pause": "Pause",
+    "next_track": "Next track",
+    "prev_track": "Previous track",
+    "seek": "Seek",
+    "playback_progress": "Playback progress",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "preview_unavailable": "Preview unavailable",
+    "player_label": "Audio player",
+    "now_playing": "Now playing: {title} by {artist}",
+    "paused": "Paused",
+    "loading_track": "Loading: {title}",
+    "track_list_label": "Track list"
+  },
+  "spotify_connect": {
+    "connect_message": "Connect your Spotify account to listen to full tracks",
+    "connect_button": "Connect Spotify",
+    "disconnect": "Disconnect Spotify",
+    "premium_required": "Spotify Premium is required for playback",
+    "reconnect": "Reconnect Spotify"
   }
 }

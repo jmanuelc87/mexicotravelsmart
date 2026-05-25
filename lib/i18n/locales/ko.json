@@ -184,5 +184,28 @@
   "language": {
     "select": "언어 선택",
     "current": "한국어"
+  },
+  "audio_player": {
+    "play": "재생",
+    "pause": "일시정지",
+    "next_track": "다음 트랙",
+    "prev_track": "이전 트랙",
+    "seek": "탐색",
+    "playback_progress": "재생 진행",
+    "mute": "음소거",
+    "unmute": "음소거 해제",
+    "preview_unavailable": "미리보기 사용 불가",
+    "player_label": "오디오 플레이어",
+    "now_playing": "재생 중: {artist}의 {title}",
+    "paused": "일시정지",
+    "loading_track": "로딩 중: {title}",
+    "track_list_label": "트랙 목록"
+  },
+  "spotify_connect": {
+    "connect_message": "전체 트랙을 들으려면 Spotify 계정을 연결하세요",
+    "connect_button": "Spotify 연결",
+    "disconnect": "Spotify 연결 해제",
+    "premium_required": "재생하려면 Spotify Premium이 필요합니다",
+    "reconnect": "Spotify 재연결"
   }
 }

@@ -184,5 +184,28 @@
   "language": {
     "select": "选择语言",
     "current": "中文"
+  },
+  "audio_player": {
+    "play": "播放",
+    "pause": "暂停",
+    "next_track": "下一曲",
+    "prev_track": "上一曲",
+    "seek": "搜索",
+    "playback_progress": "播放进度",
+    "mute": "静音",
+    "unmute": "取消静音",
+    "preview_unavailable": "预览不可用",
+    "player_label": "音频播放器",
+    "now_playing": "正在播放: {artist}的{title}",
+    "paused": "已暂停",
+    "loading_track": "正在加载: {title}",
+    "track_list_label": "曲目列表"
+  },
+  "spotify_connect": {
+    "connect_message": "连接您的 Spotify 账户以收听完整曲目",
+    "connect_button": "连接 Spotify",
+    "disconnect": "断开 Spotify",
+    "premium_required": "播放需要 Spotify Premium",
+    "reconnect": "重新连接 Spotify"
   }
 }
