@@ -14,13 +14,18 @@
     "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^3.0.65",
+    "@ai-sdk/react": "^3.0.193",
     "@next/mdx": "^16.2.6",
+    "@plausible-analytics/tracker": "^0.4.5",
     "@types/mdx": "^2.0.13",
+    "ai": "^6.0.191",
     "iron-session": "^8.0.4",
     "next": "15.5.18",
     "next-intl": "^4.12.0",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
