@@ -22,10 +22,10 @@ export default function ToursPage() {
   return (
     <main>
       <header>
-        <h1>{t('title')}</h1>
+        <h1 className={styles['page-title']}>{t('title')}</h1>
       </header>
-      <section>
-        <p className={styles['disclaimer']}>{t('subtitle')}</p>
+      <section className={styles['container']}>
+        <p className={styles['subtitle']}>{t('subtitle')}</p>
 
         <div className={styles['section']}>
           <h3 className={styles['section-heading']}>{t('operators_heading')}</h3>

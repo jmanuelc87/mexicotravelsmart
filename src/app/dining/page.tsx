@@ -26,10 +26,10 @@ export default function DiningPage() {
   return (
     <main>
       <header>
-        <h1>{t('title')}</h1>
+        <h1 className={styles['page-title']}>{t('title')}</h1>
       </header>
-      <section>
-        <p>{t('subtitle')}</p>
+      <section className={styles['container']}>
+        <p className={styles['subtitle']}>{t('subtitle')}</p>
 
         <div className={styles['section']}>
           <h3 className={styles['section-heading']}>{t('guides_section')}</h3>

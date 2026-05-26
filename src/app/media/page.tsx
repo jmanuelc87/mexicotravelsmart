@@ -58,9 +58,9 @@ export default function MediaPage() {
   return (
     <main className={styles['page']}>
       <header className={styles['header']}>
-        <h1 className={styles['title']}>{t('title')}</h1>
-        <p className={styles['subtitle']}>{t('subtitle')}</p>
+        <h1 className={styles['page-title']}>{t('title')}</h1>
       </header>
+      <p className={styles['subtitle']}>{t('subtitle')}</p>
 
       {/* Recent News */}
       <section className={styles['section']} aria-labelledby="recent-news-heading">

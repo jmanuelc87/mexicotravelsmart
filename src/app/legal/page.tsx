@@ -9,10 +9,10 @@ export default function LegalPage() {
   return (
     <main>
       <header>
-        <h1>{t('title')}</h1>
+        <h1 className={styles['page-title']}>{t('title')}</h1>
       </header>
       <section className={styles['container']}>
-        <p>{t('subtitle')}</p>
+        <p className={styles['subtitle']}>{t('subtitle')}</p>
 
         <div className={styles['section']}>
           <h3>{t('services')}</h3>

@@ -55,10 +55,14 @@
     }
   },
   {
-    "title": "La Cucaracha",
-    "artist": "Música Tradicional Mexicana",
-    "spotifyId": null,
+    "title": "Huapango de Moncayo",
+    "artist": "Mariachi Vargas de Tecalitlán",
+    "spotifyId": "7sOryMJdVbrRqo54811xkd",
     "previewUrl": null,
-    "albumArt": null
+    "albumArt": {
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc30a5af933311af14c755a4",
+      "width": 300,
+      "height": 300
+    }
   }
 ]
