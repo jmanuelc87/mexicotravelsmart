@@ -1,8 +1,8 @@
 {
   "home": {
     "title": "Mexico Travel Smart",
-    "subtitle": "La tua guida per la Coppa del Mondo FIFA 2026",
-    "welcome": "Benvenuto in Messico",
+    "subtitle": "Il tuo assistente intelligente per la stagione 2026. Tocca una categoria qui sotto per iniziare il tuo viaggio.",
+    "welcome": "¡Hola! Benvenuto.",
     "explore": "Esplora"
   },
   "embassy": {
@@ -199,7 +199,9 @@
     "media": "Media",
     "lost_docs": "Docs Smarriti",
     "states": "Stati",
-    "destinations": "Destinazioni"
+    "destinations": "Destinazioni",
+    "phrases": "Frasi",
+    "translator": "Traduttore"
   },
   "language": {
     "select": "Seleziona Lingua",

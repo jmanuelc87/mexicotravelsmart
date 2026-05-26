@@ -1,8 +1,8 @@
 {
   "home": {
     "title": "Mexico Travel Smart",
-    "subtitle": "2026年FIFA世界杯指南",
-    "welcome": "欢迎来到墨西哥",
+    "subtitle": "您的2026赛季智能助手。点击下方类别开始您的旅程。",
+    "welcome": "¡Hola! 欢迎。",
     "explore": "探索"
   },
   "embassy": {
@@ -199,7 +199,9 @@
     "media": "媒体",
     "lost_docs": "证件丢失",
     "states": "各州",
-    "destinations": "目的地"
+    "destinations": "目的地",
+    "phrases": "常用语",
+    "translator": "翻译器"
   },
   "language": {
     "select": "选择语言",

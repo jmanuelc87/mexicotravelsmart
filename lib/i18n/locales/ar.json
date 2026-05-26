@@ -1,8 +1,8 @@
 {
   "home": {
     "title": "Mexico Travel Smart",
-    "subtitle": "دليلك لكأس العالم FIFA 2026",
-    "welcome": "مرحباً بك في المكسيك",
+    "subtitle": "مساعدك الذكي لموسم 2026. اضغط على فئة أدناه لبدء رحلتك.",
+    "welcome": "¡Hola! مرحباً.",
     "explore": "استكشف"
   },
   "embassy": {
@@ -199,7 +199,9 @@
     "media": "الإعلام",
     "lost_docs": "وثائق مفقودة",
     "states": "الولايات",
-    "destinations": "الوجهات"
+    "destinations": "الوجهات",
+    "phrases": "عبارات",
+    "translator": "مترجم"
   },
   "language": {
     "select": "اختر اللغة",

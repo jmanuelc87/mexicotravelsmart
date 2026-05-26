@@ -1,8 +1,8 @@
 {
   "home": {
     "title": "Mexico Travel Smart",
-    "subtitle": "FIFA ワールドカップ 2026 ガイド",
-    "welcome": "メキシコへようこそ",
+    "subtitle": "2026シーズンのスマートアシスタントです。下のカテゴリをタップして旅を始めましょう。",
+    "welcome": "¡Hola! ようこそ。",
     "explore": "探索する"
   },
   "embassy": {
@@ -199,7 +199,9 @@
     "media": "メディア",
     "lost_docs": "書類紛失",
     "states": "州",
-    "destinations": "目的地"
+    "destinations": "目的地",
+    "phrases": "フレーズ",
+    "translator": "翻訳ツール"
   },
   "language": {
     "select": "言語を選択",

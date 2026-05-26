@@ -1,5 +1,4 @@
 import { Header } from '../Header/Header';
-import { FloatingToolbar } from './FloatingToolbar';
 import { SiteFooter } from './SiteFooter';
 import styles from './AppFrame.module.css';
 
@@ -16,7 +15,6 @@ export function AppFrame({ children }: AppFrameProps) {
           {children}
           <SiteFooter />
         </div>
-        <FloatingToolbar />
         <div className={styles['bottom-bar']} />
       </div>
     </div>
