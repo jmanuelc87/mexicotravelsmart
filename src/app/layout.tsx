@@ -5,7 +5,7 @@ import { AppFrame } from '../components/AppFrame/AppFrame';
 import { ModalProvider } from '../components/Modal/ModalContext';
 import { ModalPortal } from '../components/Modal/ModalPortal';
 import { ExternalLinkInterceptor } from '../components/Modal/ExternalLinkInterceptor';
-import { PlausibleProvider } from '../components/PlausibleProvider/PlausibleProvider';
+import { Analytics } from "@vercel/analytics/next"
 import './globals.css';
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? '';
@@ -58,7 +58,7 @@ export default async function RootLayout({
   return (
     <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'}>
       <body>
-        <PlausibleProvider />
+        <Analytics />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <ModalProvider>
             <AppFrame>{children}</AppFrame>
