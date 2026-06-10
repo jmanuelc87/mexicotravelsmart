@@ -20,6 +20,7 @@
     "@plausible-analytics/tracker": "^0.4.5",
     "@types/mdx": "^2.0.13",
     "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
     "ai": "^6.0.191",
     "iron-session": "^8.0.4",
     "next": "15.5.18",

@@ -6,6 +6,7 @@ import { ModalProvider } from '../components/Modal/ModalContext';
 import { ModalPortal } from '../components/Modal/ModalPortal';
 import { ExternalLinkInterceptor } from '../components/Modal/ExternalLinkInterceptor';
 import { Analytics } from "@vercel/analytics/next"
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import './globals.css';
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? '';
@@ -59,6 +60,7 @@ export default async function RootLayout({
     <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'}>
       <body>
         <Analytics />
+        <SpeedInsights />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <ModalProvider>
             <AppFrame>{children}</AppFrame>
