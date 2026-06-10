@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import { getLocale, getMessages } from 'next-intl/server';
 import { NextIntlClientProvider } from 'next-intl';
+import { Analytics } from '@vercel/analytics/next';
 import { AppFrame } from '../components/AppFrame/AppFrame';
 import { ModalProvider } from '../components/Modal/ModalContext';
 import { ModalPortal } from '../components/Modal/ModalPortal';
@@ -66,6 +67,7 @@ export default async function RootLayout({
             <ExternalLinkInterceptor />
           </ModalProvider>
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
