@@ -123,3 +123,28 @@
 .btn-traductor:active {
   opacity: 0.75;
 }
+
+/* Travel Bot pill — green */
+.btn-chat {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: 6px 16px;
+  border: none;
+  border-radius: 20px;
+  background-color: #2e7d32;
+  color: #fff;
+  font-size: var(--text-sm7);
+  font-family: var(--font-body);
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+}
+
+.btn-chat:hover {
+  opacity: 0.88;
+}
+
+.btn-chat:active {
+  opacity: 0.75;
+}

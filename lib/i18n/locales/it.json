@@ -201,7 +201,8 @@
     "states": "Stati",
     "destinations": "Destinazioni",
     "phrases": "Frasi",
-    "translator": "Traduttore"
+    "translator": "Traduttore",
+    "chat": "Assistente"
   },
   "language": {
     "select": "Seleziona Lingua",

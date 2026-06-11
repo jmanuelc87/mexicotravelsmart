@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
   pageExtensions: ['ts', 'tsx', 'md', 'mdx'],
   experimental: {
     mdxRs: true,
-  },
+  }
 };
 
 export default withNextIntl(nextConfig);

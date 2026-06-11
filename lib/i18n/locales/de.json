@@ -201,7 +201,8 @@
     "states": "Bundesstaaten",
     "destinations": "Reiseziele",
     "phrases": "Phrasen",
-    "translator": "Übersetzer"
+    "translator": "Übersetzer",
+    "chat": "Reise-Bot"
   },
   "language": {
     "select": "Sprache auswählen",

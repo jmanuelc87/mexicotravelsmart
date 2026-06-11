@@ -201,7 +201,8 @@
     "states": "주",
     "destinations": "목적지",
     "phrases": "표현",
-    "translator": "번역기"
+    "translator": "번역기",
+    "chat": "여행 봇"
   },
   "language": {
     "select": "언어 선택",
