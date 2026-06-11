@@ -48,10 +48,10 @@ export function ChatInterface({ deviceId, locale, conversationId: fixedConversat
 
       try {
         do {
-          const url = `/api/bot/v1/conversations/${fixedConversationId}?limit=100${cursor ? `&after=${cursor}` : ''}`;
-          const res = await fetch(url, { headers: { 'X-Device-ID': deviceId } });
+          const url: string = `/api/bot/v1/conversations/${fixedConversationId}?limit=100${cursor ? `&after=${cursor}` : ''}`;
+          const res: Response = await fetch(url, { headers: { 'X-Device-ID': deviceId } });
           if (!res.ok) break;
-          const data = await res.json();
+          const data: { messages: { message_id: string; role: string; content: string }[]; next_cursor: string | null } = await res.json();
           accumulated.push(...data.messages);
           cursor = data.next_cursor ?? null;
         } while (cursor);
@@ -102,7 +102,7 @@ export function ChatInterface({ deviceId, locale, conversationId: fixedConversat
           return;
         }
 
-        conversation_id = (await convRes.json()).conversation_id;
+        conversation_id = (await convRes.json()).conversation_id as string;
       }
 
       const res = await fetch(`/api/bot/v1/conversations/${conversation_id}/messages`, {
