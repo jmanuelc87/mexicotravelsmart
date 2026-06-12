@@ -1,0 +1,151 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--bg-body, #fafafa);
+}
+
+/* ─── Message list ───────────────────────────────────────────── */
+.messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--space-16) var(--space-12);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-12);
+}
+
+/* Shared bubble base */
+.bubble-user,
+.bubble-assistant,
+.bubble-error {
+  max-width: 80%;
+  padding: var(--space-10, 10px) var(--space-14, 14px);
+  border-radius: var(--radius-lg);
+  font-size: var(--text-sm8);
+  line-height: 1.5;
+  word-break: break-word;
+  white-space: pre-wrap;
+}
+
+/* User bubble — right-aligned, pink */
+.bubble-user {
+  align-self: flex-end;
+  background-color: var(--primary);
+  color: #fff;
+  border-bottom-right-radius: var(--radius-xs);
+}
+
+/* Assistant bubble — left-aligned, light surface */
+.bubble-assistant {
+  align-self: flex-start;
+  background-color: var(--surface, #f0f0f0);
+  color: var(--text, #222);
+  border-bottom-left-radius: var(--radius-xs);
+}
+
+/* Error bubble — left-aligned, warning tone */
+.bubble-error {
+  align-self: flex-start;
+  background-color: #fff3e0;
+  color: #e65100;
+  border: 1px solid #ffcc80;
+  border-bottom-left-radius: var(--radius-xs);
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  flex-wrap: wrap;
+}
+
+/* Typing indicator animation */
+.typing {
+  display: inline-block;
+  font-size: var(--text-sm7);
+  color: var(--text-muted, #888);
+  letter-spacing: 2px;
+  animation: pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+/* ─── Input bar ──────────────────────────────────────────────── */
+.input-bar {
+  display: flex;
+  align-items: flex-end;
+  gap: var(--space-8);
+  padding: var(--space-10, 10px) var(--space-12);
+  border-top: 1px solid var(--border-light);
+  background-color: var(--surface, #f5f5f5);
+}
+
+.input {
+  flex: 1;
+  resize: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: var(--space-8) var(--space-10, 10px);
+  font-size: var(--text-sm8);
+  font-family: var(--font-body);
+  line-height: 1.4;
+  background-color: #fff;
+  color: var(--text, #222);
+  max-height: 120px;
+  overflow-y: auto;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #2e7d32;
+}
+
+.input:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Send button */
+.send-btn {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: var(--radius-full);
+  background-color: #2e7d32;
+  color: #fff;
+  font-size: var(--text-md, 1rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.15s ease;
+}
+
+.send-btn:hover:not(:disabled) {
+  opacity: 0.88;
+}
+
+.send-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Retry button inside error bubble */
+.retry-btn {
+  border: none;
+  background: none;
+  color: #e65100;
+  font-size: var(--text-sm7);
+  font-family: var(--font-body);
+  font-weight: 700;
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 0;
+}
+
+.retry-btn:hover {
+  opacity: 0.75;
+}

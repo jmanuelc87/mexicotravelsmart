@@ -201,7 +201,8 @@
     "states": "États",
     "destinations": "Destinations",
     "phrases": "Phrases",
-    "translator": "Traducteur"
+    "translator": "Traducteur",
+    "chat": "Assistant IA"
   },
   "language": {
     "select": "Choisir la Langue",

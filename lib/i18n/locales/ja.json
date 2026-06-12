@@ -201,7 +201,8 @@
     "states": "州",
     "destinations": "目的地",
     "phrases": "フレーズ",
-    "translator": "翻訳ツール"
+    "translator": "翻訳ツール",
+    "chat": "旅行ボット"
   },
   "language": {
     "select": "言語を選択",

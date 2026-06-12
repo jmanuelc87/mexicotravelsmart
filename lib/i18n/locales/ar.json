@@ -201,7 +201,8 @@
     "states": "الولايات",
     "destinations": "الوجهات",
     "phrases": "عبارات",
-    "translator": "مترجم"
+    "translator": "مترجم",
+    "chat": "مساعد السفر"
   },
   "language": {
     "select": "اختر اللغة",

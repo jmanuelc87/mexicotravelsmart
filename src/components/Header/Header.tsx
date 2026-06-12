@@ -57,6 +57,13 @@ export function Header() {
         >
           🌐 {t('translator')}
         </button>
+        <button
+          className={styles['btn-chat']}
+          onClick={() => router.push('/chat')}
+          aria-label={t('chat')}
+        >
+          🤖 {t('chat')}
+        </button>
       </div>
     </header>
   );
